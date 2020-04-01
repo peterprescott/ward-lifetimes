@@ -11,12 +11,6 @@ demo = pd.read_csv("./data/London_ward_data_demographics.dat", delimiter='\t')
 socio['Districtcode'] = socio['Wardcode'].str[:-2]
 socio_env = pd.merge(socio, env, on='Wardcode')
 
-# group to district level using mean values
-soc_env_dists = socio_env.groupby('Districtcode')\
-    .mean()\
-    .dropna()\
-    .reset_index()
-
 codes['Districtcode'] = codes['Districtcode']\
     .replace(r'\s', '', regex=True)
 
@@ -27,14 +21,9 @@ health[
      'remove']
 ] = health['Wardname'].str.split('-', expand=True)
 health['District'] = health['District'].str[:-1]
-health = health.drop(['Wardname', 'remove', 'Ward'], axis=1)\
-    .groupby('District').mean().reset_index()
-
-soc_env_dists['Districtcode'].unique()
-codes['Districtcode'].unique()
-total_df = pd.merge(soc_env_dists, codes, on='Districtcode')
+health = health.drop('remove', axis=1)
+total_df = pd.merge(socio_env, codes, on='Districtcode')
 total_df = pd.merge(total_df, health, on='District')
-total_df['District']
 
 demo[
     ['District',
@@ -45,12 +34,8 @@ demo[
     .str.split('-', expand=True)
 
 # group to district level using mean values
-demo = demo.drop(['Wardname', 'Ward', 'remove'],
-                 axis=1).groupby('District').mean().reset_index()
+demo = demo.drop('remove', axis=1)
 demo['District'] = demo['District'].str[:-1]
 
-total_df = pd.merge(total_df, demo, on='District')
-
+total_df = pd.merge(total_df, demo, on='Wardname')
 total_df.to_csv("./data/derived/combined_df.csv")
-
-total_df.columns
