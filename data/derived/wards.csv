@@ -1,0 +1,627 @@
+,Wardname,Population2011Census,GeneralFertilityRate,Malelifeexpectancy,Femalelifeexpectancy,Children,Greaterthan65,nonwhite,NotBorninUK,NotEnglishspeaking,District,Ward,PopPlusDistrict,Wardcode,hhSocialRented,JobSeekers,Noqual,Carsperhousehold,Crimerate,Openspace,Districtcode,Combinedlifeexpectancy
+0,Bromley - Darwin,5110.0,63.8,81.2,82.4,18.317025440313103,21.9,4.8,6.1,0.4,Bromley,Darwin,"5110, Bromley",00AFGQ,5.5,1.6,21.9,1.7,58.6,88.8,00AF,81.80000000000001
+1,Kensington and Chelsea - Royal Hospital,7252.0,52.3,80.5,89.6,12.851627137341401,20.1,15.4,44.8,16.7,Kensington and Chelsea,Royal Hospital,"7252, Kensington and Chelsea",00AWGP,13.6,1.8,9.0,0.8,120.0,43.1,00AW,85.05
+2,Hillingdon - Harefield,7399.0,55.8,78.3,82.3,19.2458440329774,17.0,12.5,13.3,3.1,Hillingdon,Harefield,"7399, Hillingdon",00ASGN,24.0,3.2,23.8,1.4,67.4,85.5,00AS,80.3
+3,Hammersmith and Fulham - Palace Riverside,7483.0,40.0,80.9,89.0,18.3348924228251,14.7,15.0,34.1,8.2,Hammersmith and Fulham,Palace Riverside,"7483, Hammersmith and Fulham",00ANGK,14.2,1.8,9.9,0.9,82.6,54.7,00AN,84.95
+4,Kensington and Chelsea - Pembridge,7659.0,40.4,82.1,85.7,13.3176654915785,11.8,22.1,51.2,20.2,Kensington and Chelsea,Pembridge,"7659, Kensington and Chelsea",00AWGL,12.7,2.7,6.2,0.5,163.4,11.9,00AW,83.9
+5,Kensington and Chelsea - Cremorne,7964.0,51.8,83.2,89.7,15.582621798091399,15.3,32.5,44.4,17.2,Kensington and Chelsea,Cremorne,"7964, Kensington and Chelsea",00AWGD,43.4,4.8,15.4,0.5,89.4,29.2,00AW,86.45
+6,Westminster - Tachbrook,8158.0,33.3,82.2,83.1,10.7501838685952,15.4,21.8,41.1,15.1,Westminster,Tachbrook,"8158, Westminster",00BKGR,29.3,2.7,12.5,0.4,51.1,32.4,00BK,82.65
+7,Kensington and Chelsea - Campden,8178.0,51.5,82.2,85.0,15.590608950843698,12.5,21.4,52.8,18.3,Kensington and Chelsea,Campden,"8178, Kensington and Chelsea",00AWGA,7.0,1.5,4.5,0.7,136.8,27.9,00AW,83.6
+8,Kensington and Chelsea - Stanley,8187.0,48.2,81.2,82.8,14.5840967387321,14.5,19.0,48.7,19.3,Kensington and Chelsea,Stanley,"8187, Kensington and Chelsea",00AWGR,13.1,2.0,7.3,0.7,134.7,9.1,00AW,82.0
+9,Kensington and Chelsea - Colville,8377.0,53.3,78.0,88.4,14.0981258206995,9.7,34.0,44.4,15.5,Kensington and Chelsea,Colville,"8377, Kensington and Chelsea",00AWGB,45.2,6.4,13.1,0.4,197.2,10.5,00AW,83.2
+10,Merton - Village,8491.0,49.7,82.6,86.3,19.1025792015075,19.3,17.1,34.0,8.3,Merton,Village,"8491, Merton",00BAGQ,5.6,0.9,6.8,1.4,60.3,62.2,00BA,84.44999999999999
+11,Kensington and Chelsea - Norland,8675.0,73.9,87.0,88.6,17.4755043227666,14.8,25.6,40.7,14.4,Kensington and Chelsea,Norland,"8675, Kensington and Chelsea",00AWGJ,38.5,5.4,14.2,0.6,91.0,15.3,00AW,87.8
+12,Kingston upon Thames - Chessington North and Hook,8741.0,58.9,79.0,87.4,20.615490218510498,14.5,15.0,17.2,5.0,Kingston upon Thames,Chessington North and Hook,"8741, Kingston upon Thames",00AXGB,14.8,2.8,21.9,1.3,49.8,27.5,00AX,83.2
+13,Kensington and Chelsea - Hans Town,8792.0,48.2,98.1,92.3,12.590991810737,14.6,23.5,55.6,24.8,Kensington and Chelsea,Hans Town,"8792, Kensington and Chelsea",00AWGG,16.4,2.2,9.2,0.6,108.6,8.5,00AW,95.19999999999999
+14,Kensington and Chelsea - Brompton,8839.0,47.3,84.8,90.5,14.0513632763887,13.0,24.4,61.7,26.8,Kensington and Chelsea,Brompton,"8839, Kensington and Chelsea",00AWFZ,12.3,1.4,6.6,0.6,291.9,10.8,00AW,87.65
+15,Kensington and Chelsea - Courtfield,8933.0,49.6,83.5,92.2,12.5153923653868,9.1,24.8,61.4,28.3,Kensington and Chelsea,Courtfield,"8933, Kensington and Chelsea",00AWGC,9.1,2.7,3.8,0.5,99.4,13.3,00AW,87.85
+16,Kensington and Chelsea - Golborne,8937.0,51.9,85.8,86.0,18.6639812017456,10.2,52.1,46.1,16.9,Kensington and Chelsea,Golborne,"8937, Kensington and Chelsea",00AWGF,67.8,12.1,22.5,0.4,129.0,34.6,00AW,85.9
+17,Kingston upon Thames - St. James,8969.0,74.1,79.1,83.9,19.3444085182295,17.7,41.4,37.3,12.7,Kingston upon Thames,St. James,"8969, Kingston upon Thames",00AXGJ,9.3,2.3,15.9,1.3,41.6,28.2,00AX,81.5
+18,Merton - Hillside,8977.0,60.0,81.0,91.7,13.8242174445806,13.7,21.7,41.6,11.3,Merton,Hillside,"8977, Merton",00BAGE,9.9,1.2,6.4,0.8,52.0,5.7,00BA,86.35
+19,Merton - Lower Morden,9090.0,67.7,80.1,86.6,19.1859185918592,15.2,21.9,22.1,5.9,Merton,Lower Morden,"9090, Merton",00BAGH,4.1,3.1,20.9,1.3,36.5,34.3,00BA,83.35
+20,Kensington and Chelsea - Earl's Court,9104.0,44.9,82.2,92.6,11.4674868189807,8.8,35.4,61.0,29.6,Kensington and Chelsea,Earl's Court,"9104, Kensington and Chelsea",00AWGE,22.7,5.1,8.4,0.4,105.6,10.0,00AW,87.4
+21,Hammersmith and Fulham - College Park and Old Oak,9175.0,46.5,74.4,83.1,20.3596730245232,8.7,50.0,45.7,19.5,Hammersmith and Fulham,College Park and Old Oak,"9175, Hammersmith and Fulham",00ANGD,55.9,7.9,23.0,0.4,133.2,43.8,00AN,78.75
+22,Kensington and Chelsea - Redcliffe,9245.0,46.9,81.7,89.1,15.110870740941,10.2,18.8,53.4,21.6,Kensington and Chelsea,Redcliffe,"9245, Kensington and Chelsea",00AWGN,10.4,2.6,5.2,0.6,84.8,28.4,00AW,85.4
+23,Kingston upon Thames - Alexandra,9246.0,55.1,80.8,84.4,20.8630759247242,14.8,29.8,27.2,8.2,Kingston upon Thames,Alexandra,"9246, Kingston upon Thames",00AXFX,4.9,2.1,15.8,1.4,49.2,43.5,00AX,82.6
+24,Merton - Cannon Hill,9249.0,66.9,79.7,83.6,17.7316466645043,15.8,25.4,29.6,7.7,Merton,Cannon Hill,"9249, Merton",00BAFY,5.5,2.9,17.0,1.2,40.6,42.7,00BA,81.65
+25,Westminster - Knightsbridge and Belgravia,9270.0,30.9,89.9,93.4,11.4670981661273,13.2,30.4,59.6,23.9,Westminster,Knightsbridge and Belgravia,"9270, Westminster",00BKGH,3.9,0.4,5.7,0.9,184.9,69.1,00BK,91.65
+26,Merton - Dundonald,9275.0,77.3,80.0,90.1,16.485175202156302,9.8,18.1,35.6,7.3,Merton,Dundonald,"9275, Merton",00BAGB,3.7,1.4,7.8,0.8,79.0,15.2,00BA,85.05
+27,Kensington and Chelsea - St. Charles,9343.0,59.5,78.9,82.3,19.0516964572407,11.2,37.6,37.8,13.5,Kensington and Chelsea,St. Charles,"9343, Kensington and Chelsea",00AWGQ,58.7,9.4,21.5,0.5,85.1,21.9,00AW,80.6
+28,Westminster - Warwick,9369.0,40.7,80.7,95.1,10.7161916960188,11.3,24.0,43.9,15.9,Westminster,Warwick,"9369, Westminster",00BKGT,28.2,4.0,9.4,0.5,162.0,4.0,00BK,87.9
+29,Richmond upon Thames - Hampton North,9387.0,47.3,80.7,87.3,19.250026632577,15.7,16.3,20.1,5.4,Richmond upon Thames,Hampton North,"9387, Richmond upon Thames",00BDGB,22.5,2.9,17.6,1.2,64.2,28.2,00BD,84.0
+30,Kingston upon Thames - Old Malden,9431.0,62.6,82.4,85.9,19.870639380765603,15.7,30.8,27.3,8.4,Kingston upon Thames,Old Malden,"9431, Kingston upon Thames",00AXGH,9.1,2.3,15.7,1.4,34.0,21.6,00AX,84.15
+31,Kingston upon Thames - Berrylands,9437.0,60.4,78.4,83.9,16.9227508742185,14.9,18.1,24.1,6.9,Kingston upon Thames,Berrylands,"9437, Kingston upon Thames",00AXFY,17.4,2.4,11.9,1.0,34.1,10.8,00AX,81.15
+32,Merton - Merton Park,9485.0,57.1,84.5,88.5,19.5044807590933,14.6,29.2,35.5,10.1,Merton,Merton Park,"9485, Merton",00BAGJ,3.9,2.5,11.5,1.0,69.5,18.9,00BA,86.5
+33,Kensington and Chelsea - Notting Barns,9537.0,67.1,78.9,84.7,20.1740589283842,11.4,42.7,41.6,14.6,Kensington and Chelsea,Notting Barns,"9537, Kensington and Chelsea",00AWGK,55.8,9.3,19.4,0.5,100.5,9.3,00AW,81.80000000000001
+34,Kingston upon Thames - Tudor,9578.0,61.7,82.5,86.4,22.937982877427398,13.6,17.6,23.9,6.1,Kingston upon Thames,Tudor,"9578, Kingston upon Thames",00AXGN,7.5,1.9,10.1,1.2,42.7,22.7,00AX,84.45
+35,Sutton - Sutton South,9599.0,85.8,77.2,81.7,14.8765496405876,17.5,24.4,29.4,9.7,Sutton,Sutton South,"9599, Sutton",00BFGP,11.9,3.5,15.7,0.9,43.5,8.1,00BF,79.45
+36,Westminster - Churchill,9618.0,46.0,74.6,81.9,20.1289249324184,12.8,39.4,44.4,17.4,Westminster,Churchill,"9618, Westminster",00BKGD,49.8,6.8,19.1,0.4,107.2,22.2,00BK,78.25
+37,Lambeth - Bishop's,9675.0,38.2,78.0,84.0,11.452196382428902,8.7,42.0,43.0,13.7,Lambeth,Bishop's,"9675, Lambeth",00AYFZ,41.8,6.9,14.5,0.4,311.9,31.6,00AY,81.0
+38,Sutton - Carshalton South and Clockhouse,9715.0,53.7,80.2,82.0,20.9264024704066,15.3,16.7,13.9,2.4,Sutton,Carshalton South and Clockhouse,"9715, Sutton",00BFGG,10.6,3.0,15.5,1.5,37.1,68.2,00BF,81.1
+39,Merton - Raynes Park,9738.0,82.3,80.0,83.8,19.172314643664,13.7,19.8,33.4,8.7,Merton,Raynes Park,"9738, Merton",00BAGM,10.7,1.8,9.7,1.0,48.3,24.4,00BA,81.9
+40,Kingston upon Thames - Coombe Vale,9750.0,51.4,80.2,85.3,21.2410256410256,13.3,33.4,33.5,11.1,Kingston upon Thames,Coombe Vale,"9750, Kingston upon Thames",00AXGE,6.9,1.8,11.7,1.2,36.4,11.0,00AX,82.75
+41,Richmond upon Thames - Whitton,9752.0,76.8,79.7,85.8,19.3396226415094,16.3,21.5,23.3,6.7,Richmond upon Thames,Whitton,"9752, Richmond upon Thames",00BDGP,9.8,2.8,17.0,1.2,57.0,21.3,00BD,82.75
+42,Kensington and Chelsea - Holland,9767.0,72.6,90.4,86.1,18.2143954131258,11.0,32.0,56.7,20.9,Kensington and Chelsea,Holland,"9767, Kensington and Chelsea",00AWGH,11.9,3.1,7.0,0.7,93.2,28.2,00AW,88.25
+43,Merton - Trinity,9798.0,93.8,80.6,83.9,16.932026944274302,8.2,22.2,36.1,9.8,Merton,Trinity,"9798, Merton",00BAGP,11.9,2.8,9.2,0.8,117.0,15.7,00BA,82.25
+44,Merton - Graveney,9816.0,91.8,82.9,85.6,18.245721271393602,10.9,57.5,54.1,23.1,Merton,Graveney,"9816, Merton",00BAGD,3.9,6.0,15.8,0.9,61.0,12.3,00BA,84.25
+45,Bromley - Shortlands,9824.0,48.2,83.0,87.9,18.526058631921803,19.7,15.6,16.0,3.6,Bromley,Shortlands,"9824, Bromley",00AFHA,6.2,1.7,12.1,1.3,26.6,3.1,00AF,85.45
+46,Kingston upon Thames - Tolworth and Hook Rise,9833.0,74.0,80.3,89.7,20.4617105664599,12.9,27.2,26.1,8.0,Kingston upon Thames,Tolworth and Hook Rise,"9833, Kingston upon Thames",00AXGM,10.7,2.7,18.4,1.2,61.4,33.1,00AX,85.0
+47,Barking and Dagenham - Parsloes,9839.0,94.1,76.8,81.8,26.222177050513302,11.2,30.9,23.3,6.6,Barking and Dagenham,Parsloes,"9839, Barking and Dagenham",00ABGJ,36.4,9.5,31.8,0.8,79.2,17.5,00AB,79.3
+48,Kensington and Chelsea - Queen's Gate,9847.0,50.7,94.5,86.6,14.3698588402559,9.4,28.7,63.2,24.9,Kensington and Chelsea,Queen's Gate,"9847, Kensington and Chelsea",00AWGM,4.0,1.5,3.8,0.6,100.2,5.8,00AW,90.55
+49,Merton - West Barnes,9862.0,82.0,82.9,82.4,20.4421009937132,13.4,30.0,33.7,9.3,Merton,West Barnes,"9862, Merton",00BAGR,5.2,2.4,13.9,1.1,57.7,32.3,00BA,82.65
+50,Barking and Dagenham - Valence,9867.0,101.1,72.6,78.0,25.6916996047431,12.1,31.5,23.3,7.1,Barking and Dagenham,Valence,"9867, Barking and Dagenham",00ABGM,37.4,9.5,32.1,0.8,88.6,16.0,00AB,75.3
+51,Bromley - Biggin Hill,9951.0,60.0,82.2,86.2,18.952869058386103,16.3,4.1,5.1,0.5,Bromley,Biggin Hill,"9951, Bromley",00AFGE,4.6,2.8,18.3,1.7,43.4,71.4,00AF,84.2
+52,Merton - Ravensbury,9968.0,93.2,78.0,81.4,21.2479935794543,13.5,38.9,36.0,13.1,Merton,Ravensbury,"9968, Merton",00BAGL,25.1,6.8,23.7,0.9,75.9,37.8,00BA,79.7
+53,Richmond upon Thames - Hampton,9985.0,78.5,81.1,86.6,19.339008512769198,15.8,11.3,16.7,4.0,Richmond upon Thames,Hampton,"9985, Richmond upon Thames",00BDGA,13.8,1.7,12.5,1.2,56.6,74.7,00BD,83.85
+54,Richmond upon Thames - South Twickenham,9987.0,74.1,82.5,87.0,18.4740162210874,10.3,9.7,18.8,4.0,Richmond upon Thames,South Twickenham,"9987, Richmond upon Thames",00BDGK,6.6,1.3,6.4,1.1,41.4,26.7,00BD,84.75
+55,Bromley - Mottingham and Chislehurst North,9987.0,70.0,76.6,81.2,22.4091318714329,14.0,18.4,15.1,3.6,Bromley,Mottingham and Chislehurst North,"9987, Bromley",00AFGU,31.9,7.3,26.0,1.0,91.1,44.4,00AF,78.9
+56,Westminster - Vincent Square,9988.0,39.0,80.3,90.4,14.4873848618342,12.6,29.3,44.6,17.0,Westminster,Vincent Square,"9988, Westminster",00BKGS,34.5,4.3,11.7,0.4,92.5,30.0,00BK,85.35
+57,Kensington and Chelsea - Abingdon,10013.0,62.2,84.6,87.1,15.469889144112699,11.7,32.6,59.6,26.1,Kensington and Chelsea,Abingdon,"10013, Kensington and Chelsea",00AWFY,9.4,2.8,6.3,0.6,97.2,5.9,00AW,85.85
+58,Barking and Dagenham - Chadwell Heath,10021.0,76.7,78.9,82.7,24.508532082626502,15.6,37.9,24.8,6.5,Barking and Dagenham,Chadwell Heath,"10021, Barking and Dagenham",,,,,,,,,80.80000000000001
+59,Merton - Longthornton,10024.0,74.1,78.2,84.0,21.638068635275303,10.8,58.2,42.0,14.5,Merton,Longthornton,"10024, Merton",00BAGG,10.6,6.0,19.1,1.0,58.1,36.6,00BA,81.1
+60,Harrow - Pinner,10026.0,62.5,80.7,84.9,18.112906443247603,19.8,38.0,31.7,7.5,Harrow,Pinner,"10026, Harrow",00AQGL,14.6,2.8,14.7,1.3,56.7,28.6,00AQ,82.80000000000001
+61,Sutton - Carshalton Central,10039.0,60.5,82.9,85.4,19.0656439884451,13.7,13.7,15.0,3.7,Sutton,Carshalton Central,"10039, Sutton",00BFGF,7.0,3.3,15.4,1.2,60.0,27.0,00BF,84.15
+62,Sutton - Belmont,10048.0,65.5,78.6,82.1,17.7945859872611,16.4,22.2,22.1,4.8,Sutton,Belmont,"10048, Sutton",00BFGE,10.0,3.0,13.7,1.2,30.5,19.0,00BF,80.35
+63,Harrow - Headstone North,10093.0,47.6,81.3,85.4,18.1809174675518,16.4,52.6,37.0,9.1,Harrow,Headstone North,"10093, Harrow",00AQGF,4.0,2.5,12.9,1.4,38.6,49.5,00AQ,83.35
+64,Kingston upon Thames - Norbiton,10107.0,67.4,76.2,78.2,18.7691698822598,9.1,31.0,34.1,13.6,Kingston upon Thames,Norbiton,"10107, Kingston upon Thames",00AXGG,31.2,4.9,17.7,0.8,71.6,34.5,00AX,77.2
+65,Kingston upon Thames - Beverley,10109.0,66.1,76.8,80.0,20.664754179444103,12.9,32.6,32.4,13.3,Kingston upon Thames,Beverley,"10109, Kingston upon Thames",00AXFZ,11.5,2.9,15.2,1.0,74.5,26.5,00AX,78.4
+66,Richmond upon Thames - Fulwell and Hampton Hill,10131.0,69.6,78.4,80.7,21.133155660843002,12.5,9.9,16.7,4.0,Richmond upon Thames,Fulwell and Hampton Hill,"10131, Richmond upon Thames",00BDFY,8.0,1.9,10.8,1.1,38.8,32.7,00BD,79.55000000000001
+67,Sutton - The Wrythe,10163.0,63.8,77.5,83.9,,,,,,Sutton,The Wrythe,"10163, Sutton",00BFGR,14.7,4.1,22.2,1.1,56.2,18.0,00BF,80.7
+68,Sutton - Wallington South,10200.0,53.0,78.0,81.7,18.2058823529412,17.3,21.3,18.5,4.3,Sutton,Wallington South,"10200, Sutton",00BFGT,16.4,4.2,18.7,1.1,72.0,9.5,00BF,79.85
+69,Westminster - Maida Vale,10210.0,71.6,87.6,88.8,17.8844270323213,9.2,37.6,49.0,15.2,Westminster,Maida Vale,"10210, Westminster",00BKGL,24.5,4.6,13.2,0.5,76.6,27.2,00BK,88.19999999999999
+70,Richmond upon Thames - Hampton Wick,10221.0,60.9,79.7,84.4,20.438313276587397,13.3,11.4,20.3,4.5,Richmond upon Thames,Hampton Wick,"10221, Richmond upon Thames",00BDGC,15.1,1.8,10.0,1.1,55.8,50.0,00BD,82.05000000000001
+71,Kingston upon Thames - Chessington South,10232.0,60.9,80.0,83.3,20.6802189210321,13.5,13.0,14.3,3.9,Kingston upon Thames,Chessington South,"10232, Kingston upon Thames",00AXGC,11.7,2.1,19.1,1.4,49.4,75.7,00AX,81.65
+72,Merton - Lavender Fields,10273.0,76.2,80.8,80.9,20.3056556020637,7.3,46.8,46.1,19.6,Merton,Lavender Fields,"10273, Merton",00BAGF,20.4,5.7,18.1,0.8,68.0,19.0,00BA,80.85
+73,Sutton - Cheam,10285.0,46.3,82.3,83.0,19.8249878463782,19.7,21.2,18.6,3.3,Sutton,Cheam,"10285, Sutton",00BFGH,2.5,1.9,14.6,1.5,45.3,24.7,00BF,82.65
+74,Tower Hamlets - Spitalfields and Banglatown,10286.0,35.7,92.7,93.7,13.7079525568734,5.6,54.7,50.7,24.6,Tower Hamlets,Spitalfields and Banglatown,"10286, Tower Hamlets",00BGGL,31.9,11.2,17.2,0.3,213.5,1.4,00BG,93.2
+75,Merton - Pollards Hill,10287.0,81.0,80.2,85.2,24.1178186060076,10.5,56.4,35.9,9.4,Merton,Pollards Hill,"10287, Merton",00BAGK,24.1,8.4,21.7,1.0,73.5,52.8,00BA,82.7
+76,Waltham Forest - Chingford Green,10287.0,60.6,77.7,84.4,17.663069894040998,21.8,14.7,13.1,3.0,Waltham Forest,Chingford Green,"10287, Waltham Forest",00BHGA,15.4,4.9,24.2,1.1,72.7,54.9,00BH,81.05000000000001
+77,Richmond upon Thames - Barnes,10299.0,64.0,82.3,84.8,20.4000388387222,14.7,14.3,32.2,8.3,Richmond upon Thames,Barnes,"10299, Richmond upon Thames",00BDFW,17.9,2.1,9.1,1.0,61.4,54.4,00BD,83.55
+78,Westminster - Bayswater,10300.0,43.2,91.6,85.1,11.747572815534001,9.7,31.1,56.1,23.9,Westminster,Bayswater,"10300, Westminster",00BKGB,20.4,4.4,7.5,0.4,118.2,3.8,00BK,88.35
+79,Sutton - Beddington North,10309.0,69.2,79.3,83.0,20.6906586477835,13.3,23.5,16.6,3.8,Sutton,Beddington North,"10309, Sutton",00BFGC,9.0,3.8,19.8,1.3,67.1,53.0,00BF,81.15
+80,Richmond upon Thames - Heathfield,10313.0,80.0,80.2,82.3,20.1687190924076,14.8,30.4,26.6,8.7,Richmond upon Thames,Heathfield,"10313, Richmond upon Thames",00BDGD,21.2,3.8,20.4,1.2,59.0,27.0,00BD,81.25
+81,"Richmond upon Thames - Ham, Petersham and Richmond Riverside",10317.0,68.8,78.3,86.4,19.1237762915576,16.7,15.9,30.5,7.6,Richmond upon Thames,"Ham, Petersham and Richmond Riverside","10317, Richmond upon Thames",00BDFZ,18.5,3.1,14.1,1.0,65.8,81.9,00BD,82.35
+82,Merton - Abbey,10323.0,52.6,80.0,81.0,15.7318608931512,8.5,26.6,38.3,12.5,Merton,Abbey,"10323, Merton",00BAFX,14.1,2.0,10.1,0.7,82.0,12.8,00BA,80.5
+83,Richmond upon Thames - Teddington,10330.0,51.9,81.9,83.4,18.9351403678606,13.6,8.9,17.8,4.1,Richmond upon Thames,Teddington,"10330, Richmond upon Thames",00BDGL,8.5,1.5,7.7,1.1,56.1,64.0,00BD,82.65
+84,Barking and Dagenham - Mayesbrook,10342.0,104.5,76.6,82.2,27.1030748404564,10.8,31.2,25.0,8.2,Barking and Dagenham,Mayesbrook,"10342, Barking and Dagenham",00ABGH,38.6,9.6,32.1,0.8,83.4,45.8,00AB,79.4
+85,Richmond upon Thames - East Sheen,10348.0,85.9,84.5,88.5,22.9029764205644,13.9,9.3,23.6,5.5,Richmond upon Thames,East Sheen,"10348, Richmond upon Thames",00BDFX,7.6,1.5,6.6,1.1,58.3,76.7,00BD,86.5
+86,Sutton - Sutton North,10355.0,60.5,76.9,82.9,20.1352003862868,16.5,21.9,21.1,6.1,Sutton,Sutton North,"10355, Sutton",00BFGN,11.1,3.8,21.6,1.1,49.9,27.0,00BF,79.9
+87,Kingston upon Thames - Coombe Hill,10357.0,43.9,80.4,83.0,18.818190595732396,14.4,35.5,40.6,13.9,Kingston upon Thames,Coombe Hill,"10357, Kingston upon Thames",00AXGD,11.6,2.3,10.7,1.3,56.8,42.1,00AX,81.7
+88,Westminster - Marylebone High Street,10366.0,36.5,84.4,83.9,8.527879606405559,11.7,27.8,58.5,21.8,Westminster,Marylebone High Street,"10366, Westminster",00BKGM,9.9,1.3,5.8,0.5,376.3,6.1,00BK,84.15
+89,Harrow - West Harrow,10373.0,60.8,81.4,82.6,20.302708955943302,13.0,55.8,42.9,14.4,Harrow,West Harrow,"10373, Harrow",00AQGU,9.6,3.7,13.4,1.1,45.4,19.7,00AQ,82.0
+90,Barking and Dagenham - Alibon,10385.0,103.7,76.3,80.9,26.4034665382764,10.4,29.9,24.7,7.9,Barking and Dagenham,Alibon,"10385, Barking and Dagenham",00ABFY,36.8,10.2,31.2,0.8,93.2,22.4,00AB,78.6
+91,Hillingdon - Ickenham,10387.0,57.1,81.9,85.4,18.638682969096,19.9,21.8,15.9,2.8,Hillingdon,Ickenham,"10387, Hillingdon",00ASGR,4.4,1.6,14.6,1.6,43.5,55.7,00AS,83.65
+92,Richmond upon Thames - Twickenham Riverside,10396.0,73.8,78.4,81.0,17.131589072720303,12.4,10.3,26.8,7.2,Richmond upon Thames,Twickenham Riverside,"10396, Richmond upon Thames",00BDGM,6.2,1.5,6.2,0.9,75.8,37.8,00BD,79.7
+93,Greenwich - Eltham West,10399.0,47.9,74.2,81.7,21.992499278776805,12.3,24.6,21.3,6.4,Greenwich,Eltham West,"10399, Greenwich",00ALGW,44.1,6.2,30.8,0.9,61.6,30.5,00AL,77.95
+94,Harrow - Pinner South,10411.0,61.1,82.7,93.1,21.160311209297898,17.1,40.6,29.4,6.8,Harrow,Pinner South,"10411, Harrow",00AQGM,6.7,1.9,11.4,1.4,0.9,22.2,00AQ,87.9
+95,Merton - St. Helier,10414.0,98.3,78.6,81.6,21.5959285577108,13.3,35.0,33.0,11.7,Merton,St. Helier,"10414, Merton",00BAGN,31.0,6.2,23.7,0.9,66.5,41.6,00BA,80.1
+96,Bexley - Barnehurst,10418.0,61.0,78.6,85.8,18.9671722019581,18.2,9.8,8.0,1.3,Bexley,Barnehurst,"10418, Bexley",00ADGA,10.7,3.5,23.1,1.3,41.8,35.8,00AD,82.19999999999999
+97,Redbridge - Monkhams,10422.0,53.7,80.9,82.5,16.973709460756098,20.7,21.1,18.8,3.8,Redbridge,Monkhams,"10422, Redbridge",00BCGN,4.4,1.9,15.0,1.4,56.3,29.9,00BC,81.7
+98,Bexley - Longlands,10442.0,52.5,79.6,81.3,16.2995594713656,21.7,9.4,9.9,2.1,Bexley,Longlands,"10442, Bexley",00ADGQ,13.2,2.8,20.9,1.2,40.7,30.0,00AD,80.44999999999999
+99,Kingston upon Thames - Surbiton Hill,10459.0,54.2,79.1,81.9,16.703317716798903,13.5,19.0,25.0,7.0,Kingston upon Thames,Surbiton Hill,"10459, Kingston upon Thames",00AXGL,7.5,1.7,10.7,1.0,30.3,5.8,00AX,80.5
+100,Hillingdon - Northwood,10469.0,50.4,81.4,83.9,15.827681727003501,20.9,34.8,31.8,7.0,Hillingdon,Northwood,"10469, Hillingdon",00ASGT,14.2,2.3,13.3,1.3,57.1,61.0,00AS,82.65
+101,Kingston upon Thames - St. Mark's,10483.0,54.8,81.4,81.3,11.0750739292187,8.2,21.3,29.1,8.9,Kingston upon Thames,St. Mark's,"10483, Kingston upon Thames",00AXGK,6.7,2.9,6.7,0.9,63.1,23.9,00AX,81.35
+102,Bexley - St. Mary's,10491.0,61.2,80.7,92.6,18.139357544562,21.0,8.4,8.1,1.1,Bexley,St. Mary's,"10491, Bexley",00ADGT,4.1,2.1,18.9,1.4,41.7,46.8,00AD,86.65
+103,Barking and Dagenham - Eastbrook,10506.0,65.9,76.6,79.0,21.245002855511103,14.7,24.8,19.0,4.5,Barking and Dagenham,Eastbrook,"10506, Barking and Dagenham",00ABGB,20.0,8.8,29.9,1.1,72.4,51.1,00AB,77.8
+104,Richmond upon Thames - West Twickenham,10528.0,88.4,79.2,83.4,21.789513677811602,11.7,16.0,21.1,4.4,Richmond upon Thames,West Twickenham,"10528, Richmond upon Thames",00BDGN,11.5,2.1,13.4,1.1,48.8,45.6,00BD,81.30000000000001
+105,Sutton - Sutton West,10536.0,63.2,79.4,82.2,18.0713743356112,13.9,23.0,25.1,7.8,Sutton,Sutton West,"10536, Sutton",00BFGQ,3.9,2.5,13.5,1.1,39.9,23.1,00BF,80.80000000000001
+106,Bexley - Brampton,10546.0,43.9,80.4,84.9,17.2482457803907,20.9,13.1,10.4,1.6,Bexley,Brampton,"10546, Bexley",00ADGE,4.4,2.7,22.9,1.3,31.7,9.2,00AD,82.65
+107,Westminster - West End,10575.0,38.1,93.2,99.6,7.9148936170212805,10.9,32.4,56.8,24.2,Westminster,West End,"10575, Westminster",00BKGW,23.5,3.4,9.6,0.4,2100.2,3.9,00BK,96.4
+108,Barking and Dagenham - Whalebone,10575.0,84.0,81.0,84.1,23.6501182033097,11.6,44.0,29.2,8.4,Barking and Dagenham,Whalebone,"10575, Barking and Dagenham",00ABGP,12.3,6.9,24.0,1.0,90.7,16.4,00AB,82.55
+109,Bexley - Northumberland Heath,10598.0,50.0,78.5,82.9,20.617097565578398,15.1,14.5,9.8,1.9,Bexley,Northumberland Heath,"10598, Bexley",00ADGS,9.3,3.8,23.3,1.3,41.1,13.5,00AD,80.7
+110,Hillingdon - West Ruislip,10611.0,55.8,80.4,85.3,17.8588257468665,16.8,18.0,18.4,3.9,Hillingdon,West Ruislip,"10611, Hillingdon",00ASHC,11.0,2.0,16.3,1.3,67.0,49.5,00AS,82.85
+111,Bexley - Blackfen and Lamorbey,10616.0,53.3,84.2,84.6,19.6590052750565,17.5,7.3,7.1,1.2,Bexley,Blackfen and Lamorbey,"10616, Bexley",00ADGC,3.8,2.1,22.4,1.3,25.8,9.5,00AD,84.4
+112,Westminster - Little Venice,10633.0,70.0,80.2,92.5,17.201166180758,9.8,35.6,52.6,19.9,Westminster,Little Venice,"10633, Westminster",00BKGK,18.5,3.7,11.5,0.6,101.8,15.5,00BK,86.35
+113,Sutton - Nonsuch,10641.0,52.0,81.6,87.4,18.550888074429103,17.3,15.3,15.7,3.6,Sutton,Nonsuch,"10641, Sutton",00BFGJ,3.6,1.7,18.6,1.4,50.7,10.4,00BF,84.5
+114,Richmond upon Thames - North Richmond,10649.0,76.4,83.8,86.1,18.6590290168091,13.1,15.7,28.3,6.8,Richmond upon Thames,North Richmond,"10649, Richmond upon Thames",00BDGG,16.9,2.1,10.2,0.9,72.6,54.1,00BD,84.94999999999999
+115,Sutton - Wallington North,10650.0,77.5,78.9,81.3,19.9154929577465,12.5,19.6,16.6,4.4,Sutton,Wallington North,"10650, Sutton",00BFGS,12.9,3.3,16.4,1.1,60.0,19.9,00BF,80.1
+116,Sutton - Beddington South,10667.0,59.6,76.9,83.7,22.039936251992103,13.9,28.8,20.1,4.2,Sutton,Beddington South,"10667, Sutton",00BFGD,35.9,6.2,21.0,1.3,61.1,39.1,00BF,80.30000000000001
+117,Newham - Royal Docks,10679.0,63.9,80.6,83.1,21.0693885195243,4.0,54.1,48.3,18.1,Newham,Royal Docks,"10679, Newham",00BBGT,30.8,5.6,14.1,0.7,91.6,57.8,00BB,81.85
+118,Harrow - Hatch End,10693.0,55.3,82.0,84.3,18.685121107266397,19.8,43.3,33.0,9.1,Harrow,Hatch End,"10693, Harrow",00AQGE,8.5,2.4,15.4,1.4,50.8,31.1,00AQ,83.15
+119,Merton - Colliers Wood,10712.0,62.9,77.6,83.3,14.189693801344301,8.1,40.1,47.2,16.3,Merton,Colliers Wood,"10712, Merton",00BAFZ,12.6,3.5,13.3,0.7,92.8,14.5,00BA,80.44999999999999
+120,Sutton - Stonecot,10712.0,45.6,78.7,85.2,20.5843913368185,14.5,20.9,18.1,5.2,Sutton,Stonecot,"10712, Sutton",00BFGL,3.7,2.8,20.5,1.4,52.6,21.5,00BF,81.95
+121,Barking and Dagenham - Thames,10728.0,115.1,79.2,84.2,30.275913497390004,6.9,54.9,37.2,11.2,Barking and Dagenham,Thames,"10728, Barking and Dagenham",00ABGL,44.4,9.2,24.1,0.7,143.8,44.4,00AB,81.7
+122,Waltham Forest - Endlebury,10730.0,54.9,80.4,84.4,18.611369990680302,16.9,22.4,17.5,3.8,Waltham Forest,Endlebury,"10730, Waltham Forest",00BHGB,14.7,4.8,23.5,1.3,55.0,18.5,00BH,82.4
+123,Haringey - Muswell Hill,10784.0,56.3,77.4,81.5,17.8783382789318,12.1,16.2,26.1,7.0,Haringey,Muswell Hill,"10784, Haringey",00APGJ,9.4,3.0,8.3,0.9,81.0,31.2,00AP,79.45
+124,Hammersmith and Fulham - Ravenscourt Park,10785.0,47.0,78.3,86.2,17.6263328697265,11.4,26.7,37.3,11.6,Hammersmith and Fulham,Ravenscourt Park,"10785, Hammersmith and Fulham",00ANGM,23.2,3.4,9.9,0.6,107.6,16.3,00AN,82.25
+125,Barking and Dagenham - Heath,10786.0,83.4,75.1,79.3,26.274800667532002,12.7,32.3,24.1,6.2,Barking and Dagenham,Heath,"10786, Barking and Dagenham",00ABGF,45.3,12.2,32.1,0.7,109.4,38.4,00AB,77.19999999999999
+126,Barking and Dagenham - Village,10787.0,99.1,76.0,80.9,24.9559655140447,11.3,34.8,26.0,7.5,Barking and Dagenham,Village,"10787, Barking and Dagenham",00ABGN,39.9,11.9,30.3,0.8,102.3,48.0,00AB,78.45
+127,Bexley - Falconwood and Welling,10800.0,58.1,78.2,82.8,19.111111111111104,15.7,15.4,12.4,2.6,Bexley,Falconwood and Welling,"10800, Bexley",00ADGN,1.1,2.9,22.1,1.3,44.2,0.7,00AD,80.5
+128,Croydon - New Addington,10801.0,72.7,74.4,80.5,25.803166373483897,12.7,23.7,13.9,3.0,Croydon,New Addington,"10801, Croydon",00AHGR,42.2,7.9,34.8,1.0,87.4,31.2,00AH,77.45
+129,Hammersmith and Fulham - Parsons Green and Walham,10813.0,61.6,80.3,84.6,18.0430962730047,10.2,17.8,38.2,10.8,Hammersmith and Fulham,Parsons Green and Walham,"10813, Hammersmith and Fulham",00ANGL,20.6,3.0,9.5,0.8,124.0,9.8,00AN,82.44999999999999
+130,Richmond upon Thames - South Richmond,10820.0,55.2,78.7,83.6,16.5526802218115,14.0,13.1,33.0,8.5,Richmond upon Thames,South Richmond,"10820, Richmond upon Thames",00BDGJ,13.9,2.0,7.1,0.9,123.3,47.3,00BD,81.15
+131,Westminster - St. James's,10828.0,37.2,80.4,86.4,8.7827853712597,11.0,28.8,49.0,20.0,Westminster,St. James's,"10828, Westminster",00BKGQ,28.0,6.1,10.7,0.4,1658.0,30.7,00BK,83.4
+132,Bexley - Sidcup,10844.0,43.7,76.4,78.8,15.815197344153399,20.0,10.1,10.6,2.2,Bexley,Sidcup,"10844, Bexley",00ADGW,6.7,2.0,19.1,1.2,53.1,25.8,00AD,77.6
+133,Bexley - East Wickham,10858.0,71.2,79.0,84.0,18.916927610978103,18.0,16.9,13.4,3.2,Bexley,East Wickham,"10858, Bexley",00ADGL,12.6,4.6,26.4,1.2,45.3,26.5,00AD,81.5
+134,Bexley - Danson Park,10864.0,53.6,79.8,84.3,18.501472754050102,17.5,16.2,13.2,3.1,Bexley,Danson Park,"10864, Bexley",00ADGK,8.9,3.3,23.0,1.2,59.1,36.3,00AD,82.05
+135,Camden - Bloomsbury,10892.0,22.1,77.2,81.6,7.133676092544991,10.0,40.4,51.2,19.5,Camden,Bloomsbury,"10892, Camden",00AGGE,28.6,4.2,7.8,0.2,438.7,9.2,00AG,79.4
+136,Bexley - Blendon and Penhill,10910.0,59.0,82.4,85.3,19.5325389550871,17.9,9.5,7.8,1.7,Bexley,Blendon and Penhill,"10910, Bexley",00ADGD,2.6,2.4,21.5,1.4,36.6,13.9,00AD,83.85
+137,Richmond upon Thames - Mortlake and Barnes Common,10919.0,96.8,77.8,85.5,19.791189669383602,12.0,11.7,25.6,5.2,Richmond upon Thames,Mortlake and Barnes Common,"10919, Richmond upon Thames",00BDGF,16.0,2.3,9.8,0.9,60.3,41.7,00BD,81.65
+138,Barking and Dagenham - River,10923.0,80.4,73.2,77.9,26.8515975464616,10.1,38.4,30.9,9.6,Barking and Dagenham,River,"10923, Barking and Dagenham",00ABGK,25.7,8.6,29.9,0.8,92.8,20.8,00AB,75.55000000000001
+139,Kingston upon Thames - Grove,10955.0,52.9,77.7,88.8,12.8617069831127,9.4,23.2,31.4,11.2,Kingston upon Thames,Grove,"10955, Kingston upon Thames",00AXGF,13.2,2.2,8.5,0.8,366.4,23.6,00AX,83.25
+140,Camden - Highgate,10955.0,45.9,82.3,84.1,17.8183477863989,15.2,20.2,27.1,5.5,Camden,Highgate,"10955, Camden",00AGGN,34.1,5.2,12.6,0.7,92.1,65.2,00AG,83.19999999999999
+141,Bexley - Christchurch,10965.0,61.9,77.8,80.9,18.1030551755586,18.3,13.4,11.5,2.3,Bexley,Christchurch,"10965, Bexley",00ADGF,3.9,3.3,21.0,1.2,110.8,17.3,00AD,79.35
+142,Sutton - Sutton Central,10993.0,78.5,75.7,80.3,18.7573910670427,11.5,24.1,26.9,99.7,Sutton,Sutton Central,"10993, Sutton",00BFGM,22.7,5.6,18.6,0.8,179.9,12.9,00BF,78.0
+143,Hammersmith and Fulham - Fulham Broadway,10996.0,50.4,76.2,79.4,13.5049108766824,10.3,29.9,43.9,15.6,Hammersmith and Fulham,Fulham Broadway,"10996, Hammersmith and Fulham",00ANGE,36.2,4.6,14.8,0.5,111.6,3.1,00AN,77.80000000000001
+144,Hammersmith and Fulham - Munster,11004.0,54.5,85.3,84.5,15.0672482733551,8.4,19.3,38.3,10.7,Hammersmith and Fulham,Munster,"11004, Hammersmith and Fulham",00ANGH,18.1,2.8,9.7,0.7,75.5,8.5,00AN,84.9
+145,Waltham Forest - Hatch Lane,11058.0,73.8,78.6,82.9,20.2930005425936,16.1,22.2,16.5,4.4,Waltham Forest,Hatch Lane,"11058, Waltham Forest",00BHGF,24.7,7.0,26.2,1.1,77.2,37.7,00BH,80.75
+146,Hackney - Brownswood,11091.0,41.0,77.9,83.9,14.435127580921499,6.2,38.2,42.7,18.6,Hackney,Brownswood,"11091, Hackney",00AMGA,32.0,6.0,14.1,0.4,79.1,28.2,00AM,80.9
+147,Hackney - King's Park,11098.0,66.2,77.2,85.7,25.5541539016039,9.2,62.0,43.3,13.4,Hackney,King's Park,"11098, Hackney",00AMGL,57.9,13.6,24.6,0.5,61.9,67.7,00AM,81.45
+148,Harrow - Rayners Lane,11124.0,64.9,82.1,85.0,20.631067961164998,13.9,65.5,48.0,17.6,Harrow,Rayners Lane,"11124, Harrow",00AQGP,2.2,3.2,13.7,1.3,44.4,10.7,00AQ,83.55
+149,Bexley - Colyers,11128.0,85.7,78.2,80.2,22.1872753414809,14.5,17.7,12.3,2.0,Bexley,Colyers,"11128, Bexley",00ADGG,29.4,6.7,25.1,1.1,44.6,13.1,00AD,79.2
+150,Bexley - St. Michael's,11135.0,56.4,83.2,88.4,22.1463852716659,13.7,17.3,11.6,2.4,Bexley,St. Michael's,"11135, Bexley",00ADGU,7.0,3.7,21.8,1.4,30.0,5.9,00AD,85.80000000000001
+151,Harrow - Headstone South,11135.0,73.0,80.0,89.5,20.3682083520431,12.0,56.5,44.2,15.9,Harrow,Headstone South,"11135, Harrow",00AQGG,7.2,3.7,13.1,1.1,40.5,14.4,00AQ,84.75
+152,Harrow - Kenton East,11138.0,60.4,78.2,85.9,18.737654875202,12.4,73.4,57.1,24.7,Harrow,Kenton East,"11138, Harrow",00AQGH,14.8,3.7,23.4,1.2,45.6,7.2,00AQ,82.05000000000001
+153,Richmond upon Thames - St. Margarets and North Twickenham,11172.0,61.7,84.1,94.5,21.8403150733978,9.5,12.3,23.3,4.8,Richmond upon Thames,St. Margarets and North Twickenham,"11172, Richmond upon Thames",00BDGH,4.0,1.6,6.6,1.1,55.1,23.5,00BD,89.3
+154,Harrow - Kenton West,11173.0,64.8,82.0,86.6,17.9092455025508,14.3,72.6,51.3,20.4,Harrow,Kenton West,"11173, Harrow",00AQGJ,3.0,3.0,17.9,1.4,57.1,17.9,00AQ,84.3
+155,Merton - Wimbledon Park,11197.0,81.1,84.7,86.1,21.2021077074216,8.2,20.4,32.9,8.4,Merton,Wimbledon Park,"11197, Merton",00BAGS,8.3,2.0,7.8,1.0,54.6,28.5,00BA,85.4
+156,Hammersmith and Fulham - Town,11201.0,47.3,78.8,81.1,16.6502990804392,7.2,22.7,40.5,11.9,Hammersmith and Fulham,Town,"11201, Hammersmith and Fulham",00ANGQ,23.7,3.6,9.4,0.6,117.7,0.0,00AN,79.94999999999999
+157,Bexley - Cray Meadows,11207.0,61.7,76.9,79.5,20.5139644864817,17.6,11.0,9.9,2.3,Bexley,Cray Meadows,"11207, Bexley",00ADGJ,22.8,4.1,25.1,1.2,46.2,61.6,00AD,78.2
+158,Bexley - Crayford,11226.0,64.2,77.4,87.5,21.6907179761268,14.6,11.7,10.0,1.9,Bexley,Crayford,"11226, Bexley",00ADGH,21.8,4.7,25.3,1.1,61.3,42.7,00AD,82.45
+159,Harrow - Stanmore Park,11229.0,67.4,80.2,81.1,17.3479383738534,22.4,43.3,34.5,8.8,Harrow,Stanmore Park,"11229, Harrow",00AQGS,15.0,3.2,19.7,1.4,62.5,45.8,00AQ,80.65
+160,Merton - Figge's Marsh,11240.0,114.6,75.9,80.2,23.113879003558697,9.3,57.4,44.9,16.3,Merton,Figge's Marsh,"11240, Merton",00BAGC,27.3,9.1,21.0,0.8,99.0,23.0,00BA,78.05000000000001
+161,Westminster - Abbey Road,11250.0,68.5,81.5,85.1,17.4577777777778,14.0,35.4,56.9,20.4,Westminster,Abbey Road,"11250, Westminster",00BKGA,9.1,2.4,10.0,0.7,56.8,7.2,00BK,83.3
+162,Camden - Gospel Oak,11264.0,53.7,74.9,82.5,19.602272727272698,12.2,30.1,34.9,10.4,Camden,Gospel Oak,"11264, Camden",00AGGK,45.9,6.3,17.8,0.5,79.1,15.9,00AG,78.7
+163,Barking and Dagenham - Goresbrook,11267.0,97.4,79.3,81.4,26.5643028312772,10.0,33.3,26.8,7.7,Barking and Dagenham,Goresbrook,"11267, Barking and Dagenham",00ABGE,37.3,9.6,30.0,0.8,82.9,17.1,00AB,80.35
+164,Camden - Hampstead Town,11270.0,57.5,82.7,86.6,17.4977817213842,15.9,20.0,40.9,10.4,Camden,Hampstead Town,"11270, Camden",00AGGL,13.4,1.6,6.1,0.7,111.0,54.2,00AG,84.65
+165,Hammersmith and Fulham - Fulham Reach,11306.0,40.9,82.0,92.7,12.603927118344199,8.5,30.5,43.6,14.0,Hammersmith and Fulham,Fulham Reach,"11306, Hammersmith and Fulham",00ANGF,31.9,3.8,11.7,0.5,98.4,20.9,00AN,87.35
+166,Waltham Forest - Larkswood,11337.0,71.4,77.5,83.6,19.978830378407,15.3,31.2,21.8,6.3,Waltham Forest,Larkswood,"11337, Waltham Forest",00BHGK,17.4,6.6,26.2,1.1,85.8,31.4,00BH,80.55
+167,Harrow - Belmont,11343.0,81.1,82.1,85.5,21.246583796173898,13.0,58.7,41.6,13.2,Harrow,Belmont,"11343, Harrow",00AQFY,3.7,2.8,15.1,1.5,56.1,11.0,00AQ,83.8
+168,Hounslow - Chiswick Homefields,11346.0,52.3,78.7,83.6,18.3324519654504,11.3,18.8,34.0,9.8,Hounslow,Chiswick Homefields,"11346, Hounslow",00ATGA,16.4,2.3,9.3,0.9,103.6,42.2,00AT,81.15
+169,Bexley - Lesnes Abbey,11346.0,75.5,79.6,84.3,20.9236735413362,15.6,31.0,23.3,5.0,Bexley,Lesnes Abbey,"11346, Bexley",00ADGP,21.0,5.3,23.8,1.1,57.2,36.9,00AD,81.94999999999999
+170,Waltham Forest - Hale End and Highams Park,11355.0,75.5,80.2,84.3,22.7300748568912,11.4,33.1,21.8,5.9,Waltham Forest,Hale End and Highams Park,"11355, Waltham Forest",00BHGE,18.8,6.8,20.0,1.1,74.8,41.4,00BH,82.25
+171,Harrow - Harrow Weald,11376.0,65.1,80.6,85.7,19.743319268635698,17.1,48.3,36.7,10.5,Harrow,Harrow Weald,"11376, Harrow",00AQGD,15.9,4.7,19.4,1.3,65.5,56.3,00AQ,83.15
+172,Harrow - Wealdstone,11394.0,94.0,75.5,81.4,23.424609443566798,11.0,62.6,46.9,18.3,Harrow,Wealdstone,"11394, Harrow",00AQGT,15.1,6.4,20.9,1.0,85.8,3.4,00AQ,78.45
+173,Hounslow - Hanworth Park,11408.0,72.7,77.7,82.4,20.468092566619898,12.0,30.8,28.5,10.9,Hounslow,Hanworth Park,"11408, Hounslow",00ATGG,21.3,3.8,23.4,1.1,99.1,41.4,00AT,80.05000000000001
+174,Hounslow - Hounslow South,11409.0,60.7,83.6,88.7,19.3110098176718,12.5,45.1,38.7,13.2,Hounslow,Hounslow South,"11409, Hounslow",00ATGN,5.1,2.9,15.7,1.3,54.8,17.9,00AT,86.15
+175,Richmond upon Thames - Kew,11436.0,66.7,79.0,88.4,20.1556488282616,13.9,15.3,30.2,7.6,Richmond upon Thames,Kew,"11436, Richmond upon Thames",00BDGE,9.9,1.7,7.5,1.0,61.6,56.6,00BD,83.7
+176,Hillingdon - Manor,11442.0,53.6,80.0,83.1,20.241216570529602,15.7,16.0,16.2,3.6,Hillingdon,Manor,"11442, Hillingdon",00ASGS,4.1,2.0,17.0,1.3,56.0,18.0,00AS,81.55
+177,Waltham Forest - Valley,11444.0,75.2,77.5,80.9,21.1464522894093,13.4,38.4,25.6,7.9,Waltham Forest,Valley,"11444, Waltham Forest",00BHGQ,17.9,8.1,26.1,1.1,145.1,17.6,00BH,79.2
+178,Hounslow - Turnham Green,11448.0,52.2,77.9,83.8,14.9807826694619,12.9,23.2,39.9,12.8,Hounslow,Turnham Green,"11448, Hounslow",00ATGT,14.7,2.7,9.9,0.8,117.8,7.4,00AT,80.85
+179,Merton - Cricket Green,11474.0,120.0,78.5,87.0,23.3135785253617,10.8,47.5,39.5,14.5,Merton,Cricket Green,"11474, Merton",00BAGA,36.9,10.1,24.5,0.7,93.2,50.0,00BA,82.75
+180,Barking and Dagenham - Longbridge,11478.0,98.4,76.5,82.4,22.9656734622757,11.6,57.4,33.3,11.9,Barking and Dagenham,Longbridge,"11478, Barking and Dagenham",00ABGG,13.1,5.6,22.7,1.1,91.9,30.3,00AB,79.45
+181,Croydon - Fieldway,11479.0,78.1,75.4,78.6,31.1089816186079,10.1,34.4,19.3,4.1,Croydon,Fieldway,"11479, Croydon",00AHGN,60.6,11.0,34.4,0.8,64.7,22.8,00AH,77.0
+182,Islington - Clerkenwell,11490.0,29.2,77.6,84.9,12.236727589208,8.2,29.3,38.5,12.6,Islington,Clerkenwell,"11490, Islington",00AUGB,42.3,5.6,15.1,0.4,195.4,9.3,00AU,81.25
+183,Redbridge - Church End,11516.0,67.5,81.4,84.6,18.2354984369573,11.9,26.5,22.1,5.8,Redbridge,Church End,"11516, Redbridge",00BCGC,8.2,3.7,12.3,1.1,89.3,3.3,00BC,83.0
+184,Hammersmith and Fulham - Addison,11518.0,49.4,78.8,88.6,14.5598194130926,7.2,27.9,44.1,15.8,Hammersmith and Fulham,Addison,"11518, Hammersmith and Fulham",00ANGA,24.9,4.5,9.3,0.5,114.0,0.3,00AN,83.69999999999999
+185,Hounslow - Chiswick Riverside,11543.0,76.7,85.4,82.2,18.7559559906437,11.8,19.1,30.3,8.9,Hounslow,Chiswick Riverside,"11543, Hounslow",00ATGB,18.5,2.9,9.2,1.0,72.1,35.2,00AT,83.80000000000001
+186,Redbridge - Wanstead,11543.0,70.2,79.9,84.3,19.3797106471455,14.5,30.0,22.8,5.7,Redbridge,Wanstead,"11543, Redbridge",00BCGU,14.3,3.0,15.2,1.1,85.9,64.2,00BC,82.1
+187,Barking and Dagenham - Becontree,11545.0,67.4,75.3,81.0,25.4395842355998,9.5,41.2,30.1,10.5,Barking and Dagenham,Becontree,"11545, Barking and Dagenham",00ABFZ,29.4,10.2,28.0,0.9,91.7,3.0,00AB,78.15
+188,Islington - St. Mary's,11553.0,47.0,73.6,82.4,13.6674456851034,9.6,25.3,33.1,10.0,Islington,St. Mary's,"11553, Islington",00AUGL,41.5,5.1,15.5,0.4,253.8,9.6,00AU,78.0
+189,Southwark - East Walworth,11557.0,58.2,74.5,81.9,18.499610625594897,8.3,51.8,43.8,13.7,Southwark,East Walworth,"11557, Southwark",00BEGJ,53.9,7.4,20.8,0.4,166.9,24.1,00BE,78.2
+190,Hounslow - Feltham North,11563.0,84.3,73.5,77.3,19.9688662111909,13.6,38.9,35.7,14.1,Hounslow,Feltham North,"11563, Hounslow",00ATGD,22.3,4.6,26.1,1.1,110.8,36.4,00AT,75.4
+191,Bexley - North End,11566.0,89.6,74.0,79.0,26.8026975618191,10.6,27.0,18.8,3.3,Bexley,North End,"11566, Bexley",00ADGR,37.4,8.9,28.8,0.9,89.9,65.3,00AD,76.5
+192,Hillingdon - Northwood Hills,11578.0,76.7,78.9,86.0,18.863361547763,17.5,33.3,27.9,7.1,Hillingdon,Northwood Hills,"11578, Hillingdon",00ASGU,15.5,2.6,16.6,1.3,59.7,33.3,00AS,82.45
+193,Hammersmith and Fulham - North End,11589.0,42.3,79.1,89.8,12.5722668047286,6.6,34.2,47.9,19.4,Hammersmith and Fulham,North End,"11589, Hammersmith and Fulham",00ANGJ,28.6,4.7,11.2,0.4,97.7,10.6,00AN,84.44999999999999
+194,Barking and Dagenham - Eastbury,11624.0,90.9,79.9,85.2,26.9184445973847,9.5,41.7,32.2,11.9,Barking and Dagenham,Eastbury,"11624, Barking and Dagenham",00ABGC,37.4,10.2,28.9,0.8,87.6,18.1,00AB,82.55000000000001
+195,Sutton - Wandle Valley,11630.0,79.3,77.3,84.6,24.067067927773,9.0,24.8,19.8,5.7,Sutton,Wandle Valley,"11630, Sutton",00BFGU,33.6,6.6,23.7,1.0,69.2,40.5,00BF,80.94999999999999
+196,Haringey - Highgate,11632.0,50.0,79.5,85.4,15.362792297111401,11.7,18.9,31.5,8.2,Haringey,Highgate,"11632, Haringey",00APGG,11.1,3.3,6.4,0.8,77.9,42.4,00AP,82.45
+197,Islington - Highbury East,11634.0,64.2,76.7,80.5,17.0190820010315,9.7,23.5,30.9,9.3,Islington,Highbury East,"11634, Islington",00AUGD,31.1,4.7,13.4,0.5,96.6,21.6,00AU,78.6
+198,Harrow - Edgware,11653.0,91.0,79.6,83.9,20.2866214708659,11.4,65.3,56.5,24.8,Harrow,Edgware,"11653, Harrow",00AQGA,10.3,4.3,22.5,1.1,63.9,15.0,00AQ,81.75
+199,Sutton - Worcester Park,11655.0,83.0,81.1,83.7,20.7893607893608,13.4,20.0,21.5,6.1,Sutton,Worcester Park,"11655, Sutton",00BFGW,6.4,2.4,17.2,1.2,42.3,22.3,00BF,82.4
+200,Redbridge - Bridge,11658.0,50.0,79.4,83.6,20.029164522216497,13.4,28.1,21.6,6.7,Redbridge,Bridge,"11658, Redbridge",00BCGA,13.8,4.5,19.9,1.1,62.8,36.0,00BC,81.5
+201,Hillingdon - Cavendish,11658.0,59.2,80.6,84.0,20.6210327671985,15.7,19.7,16.7,3.7,Hillingdon,Cavendish,"11658, Hillingdon",00ASGK,7.3,2.4,17.2,1.4,43.1,17.7,00AS,82.3
+202,Harrow - Roxeth,11663.0,69.2,81.6,82.6,22.841464460258898,11.0,66.3,48.4,19.8,Harrow,Roxeth,"11663, Harrow",00AQGR,9.5,5.2,17.3,1.2,64.1,18.4,00AQ,82.1
+203,Croydon - Selsdon and Ballards,11719.0,51.8,84.5,89.4,16.0679238842905,18.9,19.7,15.7,2.2,Croydon,Selsdon and Ballards,"11719, Croydon",00AHGX,2.0,2.7,15.2,1.5,39.6,55.2,00AH,86.95
+204,Hackney - Wick,11734.0,53.4,74.9,82.7,22.3197545594,7.9,51.6,35.1,10.9,Hackney,Wick,"11734, Hackney",00AMGU,53.8,12.2,22.8,0.5,95.9,29.5,00AM,78.80000000000001
+205,Camden - Fortune Green,11740.0,52.6,80.7,84.8,15.0425894378194,9.7,29.0,43.4,16.1,Camden,Fortune Green,"11740, Camden",00AGGH,16.7,5.0,9.2,0.6,80.4,18.0,00AG,82.75
+206,Haringey - Stroud Green,11758.0,40.0,77.0,89.9,16.2782786188127,6.9,25.9,31.3,9.0,Haringey,Stroud Green,"11758, Haringey",00APGP,22.9,5.5,10.1,0.6,69.9,24.6,00AP,83.45
+207,Westminster - Church Street,11760.0,54.3,73.4,76.4,23.163265306122398,11.4,61.7,52.7,27.2,Westminster,Church Street,"11760, Westminster",00BKGE,55.8,12.4,28.1,0.3,111.0,7.6,00BK,74.9
+208,Islington - Hillrise,11794.0,56.8,74.9,80.6,19.2470747837884,9.0,33.7,32.9,10.4,Islington,Hillrise,"11794, Islington",00AUGF,45.3,7.6,17.9,0.5,69.3,18.3,00AU,77.75
+209,Haringey - Alexandra,11795.0,65.8,79.2,83.5,21.610852055955895,9.9,20.5,26.8,8.5,Haringey,Alexandra,"11795, Haringey",00APGA,9.0,3.4,8.0,1.0,101.8,52.3,00AP,81.35
+210,Southwark - College,11812.0,69.5,75.8,81.6,20.4029800203183,11.7,36.6,30.7,5.3,Southwark,College,"11812, Southwark",00BEGG,27.2,5.8,13.6,0.8,92.9,43.7,00BE,78.69999999999999
+211,Islington - St. Peter's,11822.0,62.3,76.7,80.1,14.819827440365401,9.8,25.6,32.0,9.5,Islington,St. Peter's,"11822, Islington",00AUGM,40.4,5.9,17.3,0.4,149.9,10.4,00AU,78.4
+212,Camden - King's Cross,11843.0,34.1,76.9,81.5,14.506459511947998,7.2,49.2,50.9,22.4,Camden,King's Cross,"11843, Camden",00AGGS,46.1,7.5,12.1,0.2,164.3,13.5,00AG,79.2
+213,Redbridge - Snaresbrook,11865.0,68.8,77.9,84.8,15.4150863885377,17.6,30.2,27.2,6.5,Redbridge,Snaresbrook,"11865, Redbridge",00BCGS,11.8,2.8,14.9,1.0,67.8,10.6,00BC,81.35
+214,Bexley - Belvedere,11890.0,78.6,77.9,82.5,22.354920100925103,12.7,28.4,20.4,5.1,Bexley,Belvedere,"11890, Bexley",00ADGB,16.1,6.1,23.7,1.0,67.6,33.2,00AD,80.2
+215,Hammersmith and Fulham - Hammersmith Broadway,11923.0,43.4,74.0,81.9,15.9607481338589,10.1,33.9,40.5,13.4,Hammersmith and Fulham,Hammersmith Broadway,"11923, Hammersmith and Fulham",00ANGG,39.9,5.5,15.0,0.5,230.4,9.4,00AN,77.95
+216,Camden - Cantelowes,11925.0,46.0,77.2,82.5,16.1844863731656,9.1,31.9,35.9,12.6,Camden,Cantelowes,"11925, Camden",00AGGG,40.3,6.2,13.9,0.4,110.4,7.4,00AG,79.85
+217,Sutton - St. Helier,11949.0,86.2,75.8,81.1,24.1693865595447,10.6,25.5,22.6,8.1,Sutton,St. Helier,"11949, Sutton",00BFGK,40.5,7.5,27.3,1.0,75.5,26.0,00BF,78.44999999999999
+218,Hounslow - Isleworth,11977.0,89.7,74.9,82.9,21.3242047257243,9.8,34.8,33.8,11.7,Hounslow,Isleworth,"11977, Hounslow",00ATGQ,34.1,4.9,19.9,0.9,83.3,22.6,00AT,78.9
+219,Havering - Emerson Park,11977.0,52.2,78.7,81.3,16.3062536528346,21.3,17.7,11.4,1.7,Havering,Emerson Park,"11977, Havering",00ARGF,3.9,2.5,23.1,1.6,46.7,31.2,00AR,80.0
+220,Harrow - Queensbury,11984.0,68.8,77.7,85.2,21.1949265687583,11.6,75.0,57.5,26.2,Harrow,Queensbury,"11984, Harrow",00AQGN,3.9,3.2,20.8,1.2,55.4,23.3,00AQ,81.45
+221,Camden - Frognal and Fitzjohns,11986.0,55.6,80.0,85.6,17.912564658768602,14.0,25.8,48.5,14.6,Camden,Frognal and Fitzjohns,"11986, Camden",00AGGJ,7.1,1.9,6.1,0.8,65.2,5.7,00AG,82.8
+222,Westminster - Bryanston and Dorset Square,11991.0,56.0,85.6,88.7,10.6329747310483,10.6,37.2,61.3,28.8,Westminster,Bryanston and Dorset Square,"11991, Westminster",00BKGC,7.8,3.3,8.2,0.4,255.3,2.1,00BK,87.15
+223,Islington - Junction,12025.0,40.0,77.0,83.3,15.3929313929314,10.7,30.6,34.7,11.5,Islington,Junction,"12025, Islington",00AUGH,43.3,6.9,16.8,0.4,99.9,16.6,00AU,80.15
+224,Westminster - Harrow Road,12034.0,77.5,77.1,92.1,18.8964600299152,8.5,49.0,48.2,17.9,Westminster,Harrow Road,"12034, Westminster",00BKGF,43.4,10.4,18.4,0.4,95.3,3.0,00BK,84.6
+225,Camden - Kilburn,12038.0,59.4,72.0,78.9,17.311845821565,11.2,40.1,47.9,18.7,Camden,Kilburn,"12038, Camden",00AGGR,42.1,8.0,17.4,0.4,135.2,13.4,00AG,75.45
+226,Redbridge - Roding,12044.0,68.0,80.3,83.8,22.7499169711059,10.3,37.2,28.2,8.7,Redbridge,Roding,"12044, Redbridge",00BCGQ,15.9,5.0,15.9,1.1,69.1,35.7,00BC,82.05
+227,Hillingdon - Uxbridge North,12048.0,63.1,77.2,83.0,17.886786188579,15.9,30.2,23.4,5.9,Hillingdon,Uxbridge North,"12048, Hillingdon",00ASGZ,12.7,2.9,16.8,1.3,106.1,34.5,00AS,80.1
+228,Bexley - Erith,12053.0,106.7,78.3,82.8,23.637268729776803,11.7,31.4,23.1,5.6,Bexley,Erith,"12053, Bexley",00ADGM,20.2,6.6,23.6,1.0,86.0,44.6,00AD,80.55
+229,Camden - West Hampstead,12060.0,55.6,77.9,83.0,12.545605306799299,8.4,30.5,43.3,13.9,Camden,West Hampstead,"12060, Camden",00AGGX,22.2,4.6,9.5,0.5,97.6,8.8,00AG,80.45
+230,Westminster - Regent's Park,12067.0,54.1,80.9,83.5,15.2979199469628,16.3,43.7,59.9,23.7,Westminster,Regent's Park,"12067, Westminster",00BKGP,19.1,2.2,13.0,0.6,76.4,62.2,00BK,82.2
+231,Islington - Canonbury,12072.0,50.0,74.7,84.1,17.3376408217363,9.7,28.2,29.7,9.1,Islington,Canonbury,"12072, Islington",00AUGA,47.2,6.8,19.2,0.4,103.9,14.4,00AU,79.4
+232,Bexley - Thamesmead East,12094.0,117.0,77.9,83.8,27.1622292045642,6.8,52.7,38.1,7.6,Bexley,Thamesmead East,"12094, Bexley",00ADGX,38.4,9.7,20.8,0.8,68.5,70.5,00AD,80.85
+233,Brent - Kenton,12133.0,57.9,83.7,86.2,16.7229868952444,17.2,70.0,53.9,19.6,Brent,Kenton,"12133, Brent",00AEGS,5.6,2.6,17.3,1.4,59.7,17.0,00AE,84.95
+234,Hillingdon - Eastcote and East Ruislip,12142.0,54.3,80.5,87.4,17.7812551474222,20.0,20.2,17.5,3.7,Hillingdon,Eastcote and East Ruislip,"12142, Hillingdon",00ASGM,7.2,2.0,13.6,1.5,52.5,33.4,00AS,83.95
+235,Hounslow - Hanworth,12155.0,85.0,77.5,87.1,24.2040312628548,11.0,32.4,28.9,11.3,Hounslow,Hanworth,"12155, Hounslow",00ATGF,38.6,6.7,26.4,1.0,84.9,45.3,00AT,82.3
+236,Hammersmith and Fulham - Shepherd's Bush Green,12175.0,52.6,72.7,85.4,14.792607802874699,7.6,40.1,47.2,16.4,Hammersmith and Fulham,Shepherd's Bush Green,"12175, Hammersmith and Fulham",00ANGP,37.9,8.2,13.9,0.4,349.3,9.7,00AN,79.05000000000001
+237,Hillingdon - Heathrow Villages,12199.0,86.9,75.8,82.8,20.8213788015411,9.4,50.0,43.2,17.1,Hillingdon,Heathrow Villages,"12199, Hillingdon",00ASGP,14.8,3.7,19.2,1.1,308.0,31.4,00AS,79.3
+238,Islington - Barnsbury,12201.0,45.1,75.0,79.5,14.884025899516402,9.4,28.9,35.5,10.9,Islington,Barnsbury,"12201, Islington",00AUFX,38.5,5.0,16.3,0.5,150.3,11.0,00AU,77.25
+239,Hackney - Clissold,12212.0,60.9,77.1,83.5,18.711103832296104,6.6,34.7,32.0,10.6,Hackney,Clissold,"12212, Hackney",00AMGD,34.0,5.6,14.3,0.5,82.5,12.3,00AM,80.3
+240,Hammersmith and Fulham - Avonmore and Brook Green,12216.0,43.0,79.2,82.9,12.352652259331999,10.2,35.5,52.2,20.4,Hammersmith and Fulham,Avonmore and Brook Green,"12216, Hammersmith and Fulham",00ANGC,21.9,4.7,9.3,0.5,81.2,8.8,00AN,81.05000000000001
+241,Croydon - Coulsdon East,12244.0,65.1,81.8,85.7,19.1849068931722,19.6,15.4,11.8,1.5,Croydon,Coulsdon East,"12244, Croydon",00AHGJ,12.5,3.5,18.2,1.4,39.3,56.8,00AH,83.75
+242,Bromley - Crystal Palace,12255.0,70.6,75.5,82.0,19.216646266829898,7.8,38.1,30.3,8.3,Bromley,Crystal Palace,"12255, Bromley",00AFGP,33.2,8.2,16.9,0.6,111.5,49.3,00AF,78.75
+243,Harrow - Marlborough,12259.0,75.1,78.9,84.3,20.694999592136398,10.6,62.9,51.6,20.2,Harrow,Marlborough,"12259, Harrow",00AQGK,11.1,6.1,17.1,0.9,83.2,8.3,00AQ,81.6
+244,Havering - Hacton,12262.0,45.4,80.6,85.2,16.5878323275159,19.7,7.3,7.3,1.7,Havering,Hacton,"12262, Havering",00ARGH,4.4,3.1,25.3,1.3,32.8,24.1,00AR,82.9
+245,Harrow - Harrow on the Hill,12270.0,78.4,81.2,84.2,20.814995925020398,11.7,52.6,44.2,15.1,Harrow,Harrow on the Hill,"12270, Harrow",00AQGC,13.8,3.4,13.3,1.0,65.0,43.4,00AQ,82.7
+246,Hackney - Lordship,12280.0,111.6,75.1,84.8,27.451140065146603,8.4,30.5,31.4,13.1,Hackney,Lordship,"12280, Hackney",00AMGN,37.0,7.1,24.2,0.5,61.9,33.6,00AM,79.94999999999999
+247,Hounslow - Heston Central,12288.0,80.8,77.2,83.2,20.8414713541667,10.9,76.6,54.7,23.9,Hounslow,Heston Central,"12288, Hounslow",00ATGH,19.5,4.6,17.3,1.1,78.6,15.8,00AT,80.2
+248,Hounslow - Heston East,12319.0,83.5,85.6,86.2,20.383147982790803,10.5,77.4,56.5,26.1,Hounslow,Heston East,"12319, Hounslow",00ATGJ,15.7,4.6,16.1,1.2,83.7,27.1,00AT,85.9
+249,Southwark - East Dulwich,12321.0,76.7,81.2,82.9,17.5229283337391,8.7,28.2,25.9,5.6,Southwark,East Dulwich,"12321, Southwark",00BEGH,20.3,4.6,12.3,0.7,65.3,0.7,00BE,82.05000000000001
+250,Hounslow - Cranford,12330.0,117.4,78.4,86.8,21.3787510137875,10.1,73.9,56.2,26.5,Hounslow,Cranford,"12330, Hounslow",00ATGC,29.1,6.0,20.2,1.0,105.0,26.6,00AT,82.6
+251,Hillingdon - South Ruislip,12364.0,82.1,77.6,83.8,20.1957295373665,12.6,27.0,23.2,7.7,Hillingdon,South Ruislip,"12364, Hillingdon",00ASGX,10.1,3.4,18.3,1.2,85.0,62.8,00AS,80.69999999999999
+252,Camden - Haverstock,12364.0,65.9,76.7,81.4,19.4920737625364,11.1,37.1,36.3,10.7,Camden,Haverstock,"12364, Camden",00AGGM,49.2,7.7,18.6,0.4,118.8,8.2,00AG,79.05000000000001
+253,Kingston upon Thames - Canbury,12373.0,77.1,77.2,81.6,21.700476844742603,7.9,21.4,27.5,9.5,Kingston upon Thames,Canbury,"12373, Kingston upon Thames",00AXGA,12.5,1.9,9.0,0.9,48.7,7.0,00AX,79.4
+254,Hackney - Springfield,12378.0,126.5,80.2,84.2,33.1879140410406,6.9,44.9,39.4,18.2,Hackney,Springfield,"12378, Hackney",00AMGR,47.0,10.8,31.7,0.4,64.6,26.5,00AM,82.2
+255,Haringey - Crouch End,12395.0,59.1,78.1,82.3,15.8612343686971,8.9,18.0,29.2,7.6,Haringey,Crouch End,"12395, Haringey",00APGD,10.2,3.4,6.4,0.7,80.9,14.2,00AP,80.19999999999999
+256,Islington - St. George's,12400.0,44.6,75.4,82.9,16.2258064516129,9.1,28.1,32.8,10.6,Islington,St. George's,"12400, Islington",00AUGK,38.0,6.9,16.5,0.5,93.2,8.1,00AU,79.15
+257,Southwark - Village,12402.0,65.5,77.9,81.6,23.738106756974698,10.9,20.1,22.0,3.5,Southwark,Village,"12402, Southwark",00BEGZ,15.5,2.8,9.4,1.0,83.3,33.8,00BE,79.75
+258,Tower Hamlets - St. Katherine's and Wapping,12411.0,61.0,76.1,79.1,13.6652969140279,6.1,37.6,41.5,15.9,Tower Hamlets,St. Katherine's and Wapping,"12411, Tower Hamlets",00BGGJ,20.3,4.3,12.3,0.6,100.6,37.0,00BG,77.6
+259,Harrow - Greenhill,12420.0,63.3,76.4,82.1,16.8276972624799,10.4,58.5,52.7,20.7,Harrow,Greenhill,"12420, Harrow",00AQGB,11.4,5.3,11.7,0.8,151.9,7.7,00AQ,79.25
+260,Hounslow - Heston West,12438.0,87.3,79.7,82.5,22.969930857051,10.3,76.2,51.1,23.9,Hounslow,Heston West,"12438, Hounslow",00ATGK,33.7,7.0,21.8,1.1,126.4,39.1,00AT,81.1
+261,Hackney - Stoke Newington Central,12445.0,50.1,74.9,85.9,15.958216151064699,7.0,39.9,36.6,13.0,Hackney,Stoke Newington Central,"12445, Hackney",00AMGS,32.2,8.3,14.2,0.4,111.6,13.3,00AM,80.4
+262,Barking and Dagenham - Gascoigne,12452.0,130.2,73.4,83.6,31.4969482814006,6.1,60.4,48.2,18.7,Barking and Dagenham,Gascoigne,"12452, Barking and Dagenham",00ABGD,54.0,12.2,25.5,0.5,135.2,20.3,00AB,78.5
+263,Westminster - Hyde Park,12462.0,46.0,87.9,91.3,12.7427379232868,9.9,44.7,64.2,34.1,Westminster,Hyde Park,"12462, Westminster",00BKGG,9.8,2.9,11.1,0.5,155.4,8.9,00BK,89.6
+264,Havering - Elm Park,12466.0,63.2,76.9,84.5,17.9207444248356,19.4,13.7,10.9,2.1,Havering,Elm Park,"12466, Havering",00ARGE,15.1,5.0,29.6,1.1,50.6,55.7,00AR,80.7
+265,Harrow - Canons,12471.0,72.9,81.1,87.2,18.362601234864897,19.6,48.4,40.1,12.5,Harrow,Canons,"12471, Harrow",00AQFZ,10.2,2.9,17.8,1.3,52.4,57.3,00AQ,84.15
+266,Havering - Rainham and Wennington,12482.0,64.2,77.2,82.0,18.9953533087646,17.5,15.7,10.9,2.4,Havering,Rainham and Wennington,"12482, Havering",00ARGQ,8.9,5.2,29.8,1.3,81.8,79.0,00AR,79.6
+267,Haringey - Fortis Green,12488.0,49.2,81.5,87.3,21.2764253683536,11.0,20.1,27.5,8.3,Haringey,Fortis Green,"12488, Haringey",00APGE,11.2,3.5,9.2,0.9,71.2,24.6,00AP,84.4
+268,Greenwich - Eltham North,12519.0,57.9,77.9,86.0,18.6117102004952,16.6,11.3,13.9,3.4,Greenwich,Eltham North,"12519, Greenwich",00ALGT,17.0,4.1,20.0,1.1,59.9,24.6,00AL,81.95
+269,Lambeth - Thornton,12526.0,65.8,79.0,85.2,20.661025067858898,7.9,40.5,37.0,10.1,Lambeth,Thornton,"12526, Lambeth",00AYGS,39.1,5.9,14.2,0.6,59.9,22.4,00AY,82.1
+270,Havering - Cranham,12528.0,47.0,80.8,84.5,17.233397190293697,23.5,5.6,6.0,1.1,Havering,Cranham,"12528, Havering",00ARGD,4.8,2.7,22.2,1.3,34.7,55.9,00AR,82.65
+271,Greenwich - Eltham South,12541.0,61.9,77.4,85.8,16.2586715572921,15.7,16.8,17.5,4.6,Greenwich,Eltham South,"12541, Greenwich",00ALGU,22.4,5.5,21.5,1.0,94.6,54.6,00AL,81.6
+272,Hackney - Hackney Central,12548.0,68.7,75.0,80.3,17.5964297099139,7.7,52.7,40.5,12.8,Hackney,Hackney Central,"12548, Hackney",00AMGG,50.7,11.0,18.4,0.3,136.8,14.1,00AM,77.65
+273,Hackney - New River,12551.0,128.2,79.9,82.8,28.882160784001304,7.7,39.3,40.2,19.4,Hackney,New River,"12551, Hackney",00AMGP,44.5,8.5,29.0,0.4,75.2,28.0,00AM,81.35
+274,Westminster - Queen's Park,12563.0,83.3,76.8,83.8,21.7702777998886,9.5,52.6,43.3,15.2,Westminster,Queen's Park,"12563, Westminster",00BKGN,55.4,13.7,22.6,0.4,98.3,4.4,00BK,80.3
+275,Havering - Heaton,12570.0,61.6,76.7,81.0,21.925218774860802,16.8,16.3,13.0,2.5,Havering,Heaton,"12570, Havering",00ARGL,37.1,8.8,35.8,1.0,72.6,45.3,00AR,78.85
+276,Redbridge - Barkingside,12609.0,68.7,81.0,85.7,20.2791656753113,14.8,64.2,40.5,12.8,Redbridge,Barkingside,"12609, Redbridge",00BCFZ,4.7,4.2,17.2,1.2,64.3,1.3,00BC,83.35
+277,Waltham Forest - Forest,12609.0,99.6,77.9,80.7,19.3591878816718,9.3,58.7,45.7,18.4,Waltham Forest,Forest,"12609, Waltham Forest",00BHGC,13.6,7.4,19.3,0.8,118.8,40.4,00BH,79.30000000000001
+278,Camden - Camden Town with Primrose Hill,12613.0,56.3,79.6,84.4,15.373027828431,11.3,26.4,38.8,12.1,Camden,Camden Town with Primrose Hill,"12613, Camden",00AGGF,30.5,5.4,11.7,0.5,411.2,15.2,00AG,82.0
+279,Hillingdon - Charville,12622.0,83.5,81.6,86.0,22.8014577721439,12.5,43.9,30.1,9.7,Hillingdon,Charville,"12622, Hillingdon",00ASGL,9.7,4.2,21.6,1.3,69.4,44.9,00AS,83.8
+280,Southwark - South Camberwell,12629.0,56.9,76.4,84.6,19.684852324016198,7.1,44.1,35.8,7.7,Southwark,South Camberwell,"12629, Southwark",00BEGW,37.9,6.8,12.4,0.6,72.6,20.0,00BE,80.5
+281,Redbridge - Fairlop,12630.0,89.8,80.2,81.1,20.8471892319873,13.1,34.9,25.1,8.2,Redbridge,Fairlop,"12630, Redbridge",00BCGG,9.7,5.2,21.2,1.2,91.7,48.2,00BC,80.65
+282,Havering - Harold Wood,12650.0,60.4,79.8,82.6,17.4466403162055,17.4,10.1,9.4,2.5,Havering,Harold Wood,"12650, Havering",00ARGJ,16.0,4.8,25.8,1.2,72.9,60.7,00AR,81.19999999999999
+283,Hounslow - Hounslow West,12658.0,95.8,76.4,81.5,17.4435139832517,11.2,75.9,62.6,29.4,Hounslow,Hounslow West,"12658, Hounslow",00ATGP,18.9,4.6,16.3,0.9,130.4,10.2,00AT,78.95
+284,Haringey - Hornsey,12659.0,57.5,74.7,83.2,18.1293941069595,8.2,31.0,32.2,10.5,Haringey,Hornsey,"12659, Haringey",00APGH,29.5,8.6,13.8,0.6,66.1,14.5,00AP,78.95
+285,Waltham Forest - Cathall,12700.0,79.3,74.9,81.6,21.3622047244094,6.8,61.0,50.1,20.0,Waltham Forest,Cathall,"12700, Waltham Forest",00BHFY,38.5,13.2,19.3,0.5,84.2,22.6,00BH,78.25
+286,Hounslow - Bedfont,12701.0,83.9,77.3,80.9,22.234469726793197,11.2,35.7,31.0,12.5,Hounslow,Bedfont,"12701, Hounslow",00ATFY,26.9,5.1,24.0,1.1,94.5,52.5,00AT,79.1
+287,Camden - Belsize,12702.0,83.4,82.3,83.9,17.4460714848055,12.0,27.8,46.3,14.0,Camden,Belsize,"12702, Camden",00AGGD,19.6,3.3,8.4,0.6,67.6,1.3,00AG,83.1
+288,Enfield - Grange,12709.0,60.0,82.5,86.1,17.6095680226611,18.8,19.6,22.1,6.4,Enfield,Grange,"12709, Enfield",00AKGT,3.4,3.1,16.1,1.3,70.2,27.4,00AK,84.3
+289,Westminster - Westbourne,12759.0,69.0,73.8,78.0,21.8198918410534,9.5,52.8,51.5,24.1,Westminster,Westbourne,"12759, Westminster",00BKGU,48.5,10.0,22.4,0.4,99.0,19.2,00BK,75.9
+290,Hammersmith and Fulham - Sands End,12760.0,48.6,78.2,81.8,17.9153605015674,8.4,30.6,39.0,11.8,Hammersmith and Fulham,Sands End,"12760, Hammersmith and Fulham",00ANGN,33.9,4.2,12.8,0.6,73.8,25.0,00AN,80.0
+291,Croydon - Sanderstead,12777.0,55.7,82.5,84.2,19.558581826719898,18.5,19.5,13.7,1.7,Croydon,Sanderstead,"12777, Croydon",00AHGU,6.7,2.9,15.1,1.5,39.8,48.6,00AH,83.35
+292,Redbridge - Cranbrook,12780.0,83.3,77.5,83.0,20.524256651017197,12.9,75.4,44.5,15.1,Redbridge,Cranbrook,"12780, Redbridge",00BCGF,5.3,5.1,17.6,1.2,81.7,33.4,00BC,80.25
+293,Barking and Dagenham - Abbey,12786.0,103.7,82.9,87.2,24.440794619114698,5.0,71.9,57.3,25.7,Barking and Dagenham,Abbey,"12786, Barking and Dagenham",00ABFX,26.7,8.7,16.4,0.5,172.5,19.6,00AB,85.05000000000001
+294,Brent - Northwick Park,12811.0,39.4,80.7,81.6,16.6887830770432,13.2,68.8,53.3,19.8,Brent,Northwick Park,"12811, Brent",00AEGW,16.2,3.1,13.4,1.3,68.6,32.0,00AE,81.15
+295,Harrow - Roxbourne,12828.0,62.1,75.0,84.5,24.454318677892104,9.8,66.3,48.4,20.9,Harrow,Roxbourne,"12828, Harrow",00AQGQ,25.4,5.7,19.2,1.0,53.5,15.4,00AQ,79.75
+296,Havering - Upminster,12833.0,38.6,80.1,81.6,16.7770591443934,22.5,4.8,6.1,0.9,Havering,Upminster,"12833, Havering",00ARGW,1.9,31.6,19.0,1.4,49.5,82.0,00AR,80.85
+297,Southwark - Faraday,12839.0,65.5,78.3,83.5,23.2416854895241,7.0,60.7,45.9,14.6,Southwark,Faraday,"12839, Southwark",00BEGK,68.4,10.3,21.8,0.4,108.6,30.0,00BE,80.9
+298,Lambeth - Clapham Common,12852.0,43.3,77.8,82.1,15.6084656084656,6.8,24.3,33.5,7.6,Lambeth,Clapham Common,"12852, Lambeth",00AYGB,23.7,3.8,8.3,0.7,91.7,27.9,00AY,79.94999999999999
+299,Greenwich - Blackheath Westcombe,12875.0,69.3,79.4,83.8,16.2796116504854,15.0,16.9,23.0,5.2,Greenwich,Blackheath Westcombe,"12875, Greenwich",00ALGQ,22.4,3.4,12.1,0.8,76.4,15.5,00AL,81.6
+300,Waltham Forest - Leytonstone,12879.0,60.0,76.8,84.0,16.422082459818302,7.5,47.6,42.6,15.4,Waltham Forest,Leytonstone,"12879, Waltham Forest",00BHGN,15.4,7.5,15.1,0.7,109.2,5.8,00BH,80.4
+301,Camden - Swiss Cottage,12900.0,68.6,81.6,85.0,16.4883720930233,11.6,32.4,51.2,17.8,Camden,Swiss Cottage,"12900, Camden",00AGGW,16.5,2.9,9.0,0.6,87.0,14.5,00AG,83.3
+302,Hillingdon - Hillingdon East,12906.0,83.7,77.6,83.5,23.113280644661398,11.9,34.4,23.3,6.4,Hillingdon,Hillingdon East,"12906, Hillingdon",00ASGQ,14.8,4.5,19.3,1.3,74.9,48.1,00AS,80.55
+303,Redbridge - Fullwell,12910.0,75.1,78.8,83.2,21.5491866769946,15.6,48.5,29.6,8.0,Redbridge,Fullwell,"12910, Redbridge",00BCGH,14.9,6.1,23.4,1.2,76.8,24.9,00BC,81.0
+304,Havering - Mawneys,12915.0,65.3,80.2,89.2,19.4192799070848,18.1,11.5,9.3,2.5,Havering,Mawneys,"12915, Havering",00ARGN,11.4,5.0,29.6,1.2,59.9,32.1,00AR,84.7
+305,Islington - Mildmay,12917.0,48.5,76.9,81.0,18.255012773863896,7.8,34.5,33.8,10.6,Islington,Mildmay,"12917, Islington",00AUGJ,47.0,6.8,17.4,0.4,88.9,10.4,00AU,78.95
+306,Hackney - Hackney Downs,12921.0,67.4,74.9,83.3,18.8839873074839,7.2,51.7,39.5,15.5,Hackney,Hackney Downs,"12921, Hackney",00AMGH,43.1,11.6,19.3,0.4,90.8,33.8,00AM,79.1
+307,Tower Hamlets - Bow West,12939.0,60.3,74.0,80.9,19.2596027513718,7.8,40.7,32.0,11.3,Tower Hamlets,Bow West,"12939, Tower Hamlets",00BGGA,39.0,8.8,20.3,0.5,145.3,43.0,00BG,77.45
+308,Havering - Hylands,12952.0,43.1,77.8,84.5,17.634342186534898,16.2,9.7,7.9,1.7,Havering,Hylands,"12952, Havering",00ARGM,7.2,3.2,23.7,1.4,61.9,26.0,00AR,81.15
+309,Redbridge - Hainault,12953.0,80.4,78.1,83.8,23.0448544738671,14.1,29.8,22.2,7.4,Redbridge,Hainault,"12953, Redbridge",00BCGK,27.3,8.4,28.9,1.0,91.1,59.8,00BC,80.94999999999999
+310,Havering - Pettits,12955.0,59.6,81.0,83.9,17.020455422616802,20.8,8.7,7.4,1.7,Havering,Pettits,"12955, Havering",00ARGP,5.4,3.2,25.7,1.4,55.9,32.4,00AR,82.45
+311,Hillingdon - Yiewsley,12979.0,72.0,74.9,81.1,22.343786116033602,9.3,33.8,27.7,10.0,Hillingdon,Yiewsley,"12979, Hillingdon",00ASHE,27.3,5.5,23.7,1.0,117.7,41.3,00AS,78.0
+312,Havering - Havering Park,13000.0,58.0,75.3,79.0,21.2692307692308,15.9,12.0,9.1,1.5,Havering,Havering Park,"13000, Havering",00ARGK,20.6,6.4,30.4,1.3,51.8,75.3,00AR,77.15
+313,Enfield - Highlands,13006.0,50.7,81.5,90.5,16.9075811164078,18.5,20.8,20.9,5.4,Enfield,Highlands,"13006, Enfield",00AKGW,7.4,3.3,18.7,1.2,40.6,56.5,00AK,86.0
+314,Brent - Brondesbury Park,13023.0,67.2,80.3,84.7,16.7933655839668,12.1,43.8,47.2,16.2,Brent,Brondesbury Park,"13023, Brent",00AEGL,21.5,5.3,15.9,0.7,91.6,9.6,00AE,82.5
+315,Camden - Holborn and Covent Garden,13023.0,40.3,75.6,82.8,12.8618597865315,9.4,39.8,45.6,16.3,Camden,Holborn and Covent Garden,"13023, Camden",00AGGP,42.5,6.0,12.9,0.3,480.3,7.5,00AG,79.19999999999999
+316,Hounslow - Osterley and Spring Grove,13031.0,86.3,80.0,84.7,18.1797252705088,12.0,54.4,46.0,15.7,Hounslow,Osterley and Spring Grove,"13031, Hounslow",00ATGR,6.9,3.3,10.8,1.2,93.3,54.2,00AT,82.35
+317,Greenwich - Coldharbour and New Eltham,13062.0,75.2,79.0,83.6,18.6112387077017,16.9,18.3,15.6,3.6,Greenwich,Coldharbour and New Eltham,"13062, Greenwich",00ALGS,23.5,4.9,25.4,1.1,60.0,20.0,00AL,81.3
+318,Redbridge - Goodmayes,13069.0,103.0,79.9,83.2,24.087535389088696,8.0,75.2,46.3,18.5,Redbridge,Goodmayes,"13069, Redbridge",00BCGJ,8.5,8.4,18.1,1.0,93.8,30.6,00BC,81.55000000000001
+319,Southwark - Brunswick Park,13174.0,73.3,78.8,90.7,19.6599362380446,7.1,53.3,40.6,10.7,Southwark,Brunswick Park,"13174, Southwark",00BEGC,46.6,10.1,15.2,0.5,100.1,7.0,00BE,84.75
+320,Waltham Forest - Higham Hill,13194.0,107.4,75.8,88.0,24.4808246172503,7.6,51.9,40.3,15.7,Waltham Forest,Higham Hill,"13194, Waltham Forest",00BHGH,33.6,11.5,23.7,0.7,79.5,56.7,00BH,81.9
+321,Havering - Squirrel's Heath,13194.0,63.0,81.6,89.5,17.7656510535092,16.3,11.5,9.4,1.3,Havering,Squirrel's Heath,"13194, Havering",00ARGU,8.8,3.9,20.0,1.3,52.7,16.7,00AR,85.55
+322,Westminster - Lancaster Gate,13195.0,46.5,93.7,88.1,11.5953012504737,8.4,33.7,64.6,32.2,Westminster,Lancaster Gate,"13195, Westminster",00BKGJ,10.5,3.4,7.1,0.4,172.3,8.6,00BK,90.9
+323,Tower Hamlets - Weavers,13206.0,55.1,78.9,82.2,17.3406027563229,7.0,47.9,41.2,16.7,Tower Hamlets,Weavers,"13206, Tower Hamlets",00BGGM,43.4,11.7,20.6,0.3,195.8,15.0,00BG,80.55000000000001
+324,Croydon - Heathfield,13213.0,56.9,84.1,83.7,19.049421024748398,15.9,24.6,16.9,2.8,Croydon,Heathfield,"13213, Croydon",00AHGP,9.3,4.2,17.2,1.3,82.2,61.3,00AH,83.9
+325,Hackney - Victoria,13231.0,62.9,79.4,86.8,20.6409190537374,7.4,44.2,34.0,10.4,Hackney,Victoria,"13231, Hackney",00AMGT,52.3,12.5,19.5,0.4,109.7,20.9,00AM,83.1
+326,Hackney - Chatham,13232.0,63.2,72.5,81.4,21.9543530834341,6.9,54.4,41.3,14.4,Hackney,Chatham,"13232, Hackney",00AMGC,51.0,14.1,21.1,0.4,134.3,20.5,00AM,76.95
+327,Redbridge - Clayhall,13241.0,63.8,84.0,85.4,21.901669058228197,14.3,71.0,38.8,10.9,Redbridge,Clayhall,"13241, Redbridge",00BCGD,4.9,3.6,17.0,1.4,66.7,19.9,00BC,84.7
+328,Waltham Forest - William Morris,13269.0,102.7,77.5,80.7,22.413143416987,8.0,51.8,43.6,16.9,Waltham Forest,William Morris,"13269, Waltham Forest",00BHGR,21.4,9.0,20.4,0.6,81.0,5.3,00BH,79.1
+329,Haringey - Harringay,13272.0,64.0,78.4,81.8,14.7679324894515,7.5,34.5,49.2,24.3,Haringey,Harringay,"13272, Haringey",00APGF,13.9,9.3,14.0,0.5,108.9,45.4,00AP,80.1
+330,Islington - Tollington,13311.0,46.2,72.4,80.8,17.7221846593043,8.0,35.8,34.5,12.6,Islington,Tollington,"13311, Islington",00AUGN,41.9,7.8,17.3,0.4,87.4,13.3,00AU,76.6
+331,Ealing - Walpole,13330.0,66.8,79.0,85.5,17.9594898724681,10.5,27.1,38.0,14.1,Ealing,Walpole,"13330, Ealing",00AJHB,12.0,3.6,10.2,0.8,100.1,20.1,00AJ,82.25
+332,Havering - St. Andrew's,13334.0,65.7,77.1,79.1,16.4016799160042,20.9,7.2,7.7,1.6,Havering,St. Andrew's,"13334, Havering",00ARGS,11.3,3.7,26.2,1.2,82.0,18.8,00AR,78.1
+333,Tower Hamlets - Mile End East,13354.0,74.3,73.4,78.7,23.895462033847497,5.7,66.0,43.5,20.0,Tower Hamlets,Mile End East,"13354, Tower Hamlets",00BGGF,52.9,14.8,23.3,0.4,113.9,33.4,00BG,76.05000000000001
+334,Waltham Forest - Wood Street,13368.0,102.1,75.3,83.2,23.3019150209455,9.2,50.4,38.7,14.4,Waltham Forest,Wood Street,"13368, Waltham Forest",00BHGS,30.9,9.8,20.8,0.7,89.4,34.4,00BH,79.25
+335,Haringey - West Green,13372.0,65.0,75.6,86.2,19.7427460364942,9.5,47.8,54.6,25.9,Haringey,West Green,"13372, Haringey",00APGS,36.0,12.0,23.9,0.5,94.7,38.2,00AP,80.9
+336,Hammersmith and Fulham - Wormholt and White City,13389.0,70.6,78.1,85.9,22.6603928598103,9.0,50.6,45.0,14.3,Hammersmith and Fulham,Wormholt and White City,"13389, Hammersmith and Fulham",00ANGR,52.3,10.5,21.5,0.5,79.2,4.2,00AN,82.0
+337,Hackney - Cazenove,13392.0,116.6,74.4,86.7,28.3751493428913,5.4,43.3,36.4,16.4,Hackney,Cazenove,"13392, Hackney",00AMGB,33.8,9.9,23.5,0.4,63.2,12.8,00AM,80.55000000000001
+338,Enfield - Winchmore Hill,13403.0,68.8,78.5,81.5,18.421248974110302,14.9,23.8,27.0,8.1,Enfield,Winchmore Hill,"13403, Enfield",00AKHH,6.4,3.9,15.4,1.2,54.1,25.2,00AK,80.0
+339,Newham - Custom House,13411.0,91.8,73.7,77.4,24.054880322123605,6.6,53.5,46.9,19.6,Newham,Custom House,"13411, Newham",00BBGF,41.4,9.5,25.3,0.7,136.0,30.6,00BB,75.55000000000001
+340,Camden - Kentish Town,13417.0,55.2,73.5,78.4,15.800849668331198,9.6,28.4,34.2,10.4,Camden,Kentish Town,"13417, Camden",00AGGQ,33.3,5.6,13.6,0.4,126.3,5.3,00AG,75.95
+341,Brent - Dollis Hill,13425.0,81.2,79.8,87.5,25.065176908752303,11.3,64.3,54.5,22.0,Brent,Dollis Hill,"13425, Brent",00AEGM,22.1,8.0,24.4,0.9,94.9,26.6,00AE,83.65
+342,Haringey - White Hart Lane,13431.0,73.0,74.2,79.0,27.4067455885638,8.4,52.5,44.6,19.2,Haringey,White Hart Lane,"13431, Haringey",00APGT,48.7,14.4,30.0,0.6,97.8,27.8,00AP,76.6
+343,Greenwich - Shooters Hill,13433.0,87.2,78.0,86.2,20.7474130871734,12.4,33.5,23.8,5.2,Greenwich,Shooters Hill,"13433, Greenwich",00ALHD,19.5,5.9,19.4,1.0,51.1,57.1,00AL,82.1
+344,Southwark - Surrey Docks,13435.0,57.5,85.5,82.9,12.169705991812402,5.7,30.9,42.7,15.4,Southwark,Surrey Docks,"13435, Southwark",00BEGX,23.9,3.7,11.8,0.6,85.7,40.3,00BE,84.2
+345,Ealing - Southall Broadway,13439.0,103.1,81.2,82.4,21.1846119502939,10.5,93.7,64.1,36.0,Ealing,Southall Broadway,"13439, Ealing",00AJGY,16.4,8.5,23.8,0.9,147.1,14.1,00AJ,81.80000000000001
+346,Brent - Fryent,13445.0,94.0,82.2,90.2,20.8627742655262,11.8,62.7,55.9,21.9,Brent,Fryent,"13445, Brent",00AEGP,13.9,5.1,20.3,1.1,78.7,39.3,00AE,86.2
+347,Croydon - Coulsdon West,13449.0,58.7,80.0,82.8,20.1055840582943,15.3,25.2,16.9,2.4,Croydon,Coulsdon West,"13449, Croydon",00AHGK,4.6,2.7,15.1,1.5,41.2,17.1,00AH,81.4
+348,Hillingdon - Barnhill,13449.0,75.1,75.6,82.5,24.3215108930032,9.6,68.4,45.4,19.0,Hillingdon,Barnhill,"13449, Hillingdon",00ASGG,19.2,5.8,22.4,1.2,96.8,27.8,00AS,79.05
+349,Ealing - Southfield,13474.0,74.3,80.7,86.7,17.307406857651802,10.0,20.8,36.2,10.7,Ealing,Southfield,"13474, Ealing",00AJHA,9.8,3.1,9.0,0.8,72.4,14.3,00AJ,83.7
+350,Greenwich - Middle Park and Sutcliffe,13505.0,75.3,76.8,84.7,21.9326175490559,14.2,24.0,22.3,5.6,Greenwich,Middle Park and Sutcliffe,"13505, Greenwich",00ALHA,37.3,7.9,25.5,0.9,72.5,37.0,00AL,80.75
+351,Ealing - Northfield,13517.0,63.4,84.2,85.2,18.8281423392765,11.0,23.2,36.2,11.1,Ealing,Northfield,"13517, Ealing",00AJGQ,6.7,2.6,8.7,0.9,49.0,25.6,00AJ,84.7
+352,Southwark - Peckham Rye,13518.0,75.6,75.6,81.2,20.2914632342062,8.0,35.8,28.8,5.9,Southwark,Peckham Rye,"13518, Southwark",00BEGR,25.3,5.8,13.8,0.7,62.3,45.7,00BE,78.4
+353,Camden - Regent's Park,13528.0,53.5,74.8,83.8,15.915138971023099,9.6,44.3,45.2,15.6,Camden,Regent's Park,"13528, Camden",00AGGT,48.0,6.7,17.5,0.4,182.8,27.0,00AG,79.3
+354,Havering - South Hornchurch,13544.0,63.2,76.9,81.8,21.0351447135263,16.6,16.4,11.8,2.5,Havering,South Hornchurch,"13544, Havering",00ARGT,19.8,7.3,31.4,1.2,87.6,45.0,00AR,79.35
+355,Hounslow - Syon,13554.0,80.3,73.0,79.4,19.1382617677438,9.5,34.2,36.7,13.5,Hounslow,Syon,"13554, Hounslow",00ATGS,27.4,4.1,16.4,0.9,94.2,42.5,00AT,76.2
+356,Hillingdon - Yeading,13586.0,105.9,78.4,82.4,25.813337258943,7.6,64.1,42.7,17.4,Hillingdon,Yeading,"13586, Hillingdon",00ASHD,21.8,6.0,19.8,1.1,100.8,33.3,00AS,80.4
+357,Southwark - Nunhead,13620.0,70.4,71.2,77.3,19.6182085168869,8.9,55.5,39.0,9.1,Southwark,Nunhead,"13620, Southwark",00BEGP,47.4,11.3,21.1,0.5,98.5,20.1,00BE,74.25
+358,Waltham Forest - Markhouse,13636.0,97.6,75.9,78.0,23.166617776474,7.8,58.2,45.8,19.0,Waltham Forest,Markhouse,"13636, Waltham Forest",00BHGP,24.4,11.3,20.8,0.6,105.4,29.0,00BH,76.95
+359,Lambeth - Thurlow Park,13641.0,61.1,76.8,84.0,21.0615057547101,8.8,36.3,30.3,8.7,Lambeth,Thurlow Park,"13641, Lambeth",00AYGT,27.1,5.9,12.7,0.7,103.6,19.7,00AY,80.4
+360,Hackney - De Beauvoir,13643.0,53.7,77.7,81.5,16.103496298468098,7.0,39.9,37.8,11.7,Hackney,De Beauvoir,"13643, Hackney",00AMGF,39.9,9.4,15.6,0.4,100.9,14.2,00AM,79.6
+361,Bromley - Petts Wood and Knoll,13651.0,61.4,84.2,88.5,18.342978536371,20.9,9.2,10.6,1.8,Bromley,Petts Wood and Knoll,"13651, Bromley",00AFGY,2.7,2.1,15.2,1.4,37.6,24.6,00AF,86.35
+362,Hackney - Queensbridge,13670.0,69.8,75.9,82.6,17.542062911485,8.2,44.7,38.3,11.8,Hackney,Queensbridge,"13670, Hackney",00AMGQ,50.1,12.2,18.8,0.4,149.1,15.6,00AM,79.25
+363,Redbridge - Mayfield,13672.0,111.4,78.1,82.9,24.2612638970158,11.6,73.3,41.1,13.5,Redbridge,Mayfield,"13672, Redbridge",00BCGM,7.6,7.0,20.5,1.2,80.2,16.8,00BC,80.5
+364,Tower Hamlets - Bethnal Green North,13683.0,54.5,73.6,78.6,18.5558722502375,7.0,49.4,38.7,15.0,Tower Hamlets,Bethnal Green North,"13683, Tower Hamlets",00BGFW,46.0,12.8,22.1,0.4,123.6,6.1,00BG,76.1
+365,Lambeth - Gipsy Hill,13712.0,70.1,77.2,83.0,22.4912485414236,8.1,44.9,30.6,7.7,Lambeth,Gipsy Hill,"13712, Lambeth",,,,,,,,,80.1
+366,Haringey - Bounds Green,13725.0,61.9,74.2,81.6,18.6739526411658,9.2,39.8,48.5,21.5,Haringey,Bounds Green,"13725, Haringey",00APGB,28.4,8.5,17.3,0.6,92.6,25.3,00AP,77.9
+367,Southwark - Rotherhithe,13743.0,54.8,76.3,79.2,17.2378665502438,7.4,40.9,43.4,15.2,Southwark,Rotherhithe,"13743, Southwark",00BEGT,45.6,5.8,17.5,0.5,107.2,34.1,00BE,77.75
+368,Brent - Welsh Harp,13753.0,85.0,81.2,88.5,21.3480695121064,11.4,61.3,55.0,22.9,Brent,Welsh Harp,"13753, Brent",00AEHD,19.2,7.7,22.6,0.9,85.3,34.2,00AE,84.85
+369,Enfield - Chase,13762.0,63.5,76.8,80.8,22.1915419270455,13.2,23.4,21.0,7.0,Enfield,Chase,"13762, Enfield",00AKGN,21.3,6.5,22.4,1.1,52.5,81.5,00AK,78.8
+370,Southwark - South Bermondsey,13780.0,60.5,77.2,81.1,20.5297532656023,7.2,44.8,41.1,14.6,Southwark,South Bermondsey,"13780, Southwark",00BEGU,52.3,8.7,21.9,0.5,107.3,3.0,00BE,79.15
+371,Enfield - Southgate Green,13787.0,57.8,78.2,85.2,18.1112642344237,15.3,33.2,36.2,14.0,Enfield,Southgate Green,"13787, Enfield",00AKHD,12.0,4.3,16.3,1.1,65.9,20.6,00AK,81.7
+372,Enfield - Cockfosters,13788.0,46.1,81.5,86.8,17.2251232956194,19.0,26.3,30.5,9.5,Enfield,Cockfosters,"13788, Enfield",00AKGP,12.0,4.3,19.0,1.3,55.9,68.8,00AK,84.15
+373,Lambeth - Clapham Town,13795.0,37.9,75.5,81.7,14.5922435665096,7.3,29.3,35.2,7.8,Lambeth,Clapham Town,"13795, Lambeth",00AYGC,29.7,5.1,10.9,0.5,179.5,13.2,00AY,78.6
+374,Waltham Forest - Cann Hall,13799.0,106.8,77.0,81.3,21.689977534604,7.1,57.0,48.8,18.2,Waltham Forest,Cann Hall,"13799, Waltham Forest",00BHFX,28.3,10.5,19.2,0.6,84.6,5.0,00BH,79.15
+375,Camden - St. Pancras and Somers Town,13818.0,75.8,75.5,85.3,19.959473150962502,9.4,49.0,42.4,17.9,Camden,St. Pancras and Somers Town,"13818, Camden",00AGGU,61.2,10.8,22.7,0.3,120.8,13.5,00AG,80.4
+376,Hillingdon - Brunel,13841.0,47.2,78.2,83.4,15.526334802398699,11.1,38.2,29.3,9.8,Hillingdon,Brunel,"13841, Hillingdon",00ASGJ,22.0,3.3,17.6,1.1,90.4,40.5,00AS,80.80000000000001
+377,Newham - East Ham North,13866.0,92.8,71.3,76.9,21.8736477715275,7.9,90.8,60.2,31.5,Newham,East Ham North,"13866, Newham",00BBGH,17.6,8.9,19.9,0.7,79.7,12.3,00BB,74.1
+378,Islington - Caledonian,13896.0,49.2,75.5,81.9,15.2489925158319,9.0,34.7,37.3,14.4,Islington,Caledonian,"13896, Islington",00AUFZ,44.7,6.3,21.0,0.4,116.7,16.4,00AU,78.7
+379,Ealing - Lady Margaret,13897.0,91.3,78.2,81.9,20.1986040152551,11.0,83.5,55.9,25.2,Ealing,Lady Margaret,"13897, Ealing",00AJGP,7.3,6.1,19.8,1.3,64.1,19.4,00AJ,80.05000000000001
+380,Hackney - Haggerston,13904.0,39.8,73.8,84.1,15.9882048331415,5.7,45.6,45.9,17.4,Hackney,Haggerston,"13904, Hackney",00AMGJ,44.1,10.4,16.1,0.3,382.1,19.1,00AM,78.94999999999999
+381,Ealing - Dormers Wells,13910.0,76.8,77.0,82.3,22.393961179007896,11.6,82.1,56.0,29.1,Ealing,Dormers Wells,"13910, Ealing",00AJGE,28.4,8.9,23.5,1.0,80.6,47.3,00AJ,79.65
+382,Waltham Forest - Hoe Street,13912.0,79.1,75.9,81.7,21.075330649798698,8.8,49.9,42.8,17.2,Waltham Forest,Hoe Street,"13912, Waltham Forest",00BHGJ,27.0,11.5,19.0,0.6,110.2,10.6,00BH,78.80000000000001
+383,Enfield - Bush Hill Park,13923.0,61.1,79.6,84.0,18.0205415499533,17.2,26.8,25.7,7.7,Enfield,Bush Hill Park,"13923, Enfield",00AKGM,5.2,4.1,20.4,1.3,53.7,29.6,00AK,81.8
+384,Haringey - Noel Park,13939.0,53.0,74.8,84.7,19.097496233589197,8.5,45.2,51.7,25.4,Haringey,Noel Park,"13939, Haringey",00APGK,38.2,12.1,20.8,0.5,247.3,11.5,00AP,79.75
+385,Hillingdon - Uxbridge South,13979.0,36.6,75.1,81.8,13.2627512697618,9.6,37.9,30.9,10.0,Hillingdon,Uxbridge South,"13979, Hillingdon",00ASHA,22.2,3.9,14.1,1.0,123.0,26.2,00AS,78.44999999999999
+386,Brent - Alperton,14017.0,87.6,76.7,87.0,19.0054933295284,9.5,81.8,66.8,32.3,Brent,Alperton,"14017, Brent",00AEGJ,12.1,4.5,22.1,0.9,103.1,17.7,00AE,81.85
+387,Ealing - Ealing Common,14019.0,49.6,77.0,86.3,15.222198444967502,11.3,31.5,43.1,15.4,Ealing,Ealing Common,"14019, Ealing",00AJGG,14.6,4.8,10.8,0.9,91.3,22.2,00AJ,81.65
+388,Ealing - Ealing Broadway,14029.0,49.7,79.7,85.0,14.5484353838477,11.9,30.5,44.3,18.6,Ealing,Ealing Broadway,"14029, Ealing",00AJGF,11.0,3.4,7.3,0.8,159.6,6.1,00AJ,82.35
+389,Ealing - Norwood Green,14032.0,70.7,78.2,79.9,20.6242873432155,10.7,78.0,50.7,25.6,Ealing,Norwood Green,"14032, Ealing",00AJGU,34.7,10.1,21.8,1.1,124.6,47.6,00AJ,79.05000000000001
+390,Hackney - Leabridge,14039.0,71.9,73.7,78.1,21.091245815229,7.0,52.7,40.7,17.3,Hackney,Leabridge,"14039, Hackney",00AMGM,32.0,11.4,18.5,0.5,84.4,23.0,00AM,75.9
+391,Lewisham - Blackheath,14039.0,56.8,77.4,82.4,18.3845003205357,10.9,30.2,29.3,7.4,Lewisham,Blackheath,"14039, Lewisham",00AZGE,28.8,4.7,13.2,0.7,106.9,34.6,00AZ,79.9
+392,Greenwich - Peninsula,14051.0,68.2,74.6,85.1,16.9240623443171,8.3,30.6,33.0,10.4,Greenwich,Peninsula,"14051, Greenwich",00ALHB,30.6,4.1,15.0,0.6,167.4,33.7,00AL,79.85
+393,Enfield - Bowes,14051.0,85.4,78.5,83.8,17.2443242473845,10.6,38.6,47.5,23.3,Enfield,Bowes,"14051, Enfield",00AKGL,10.7,6.8,16.7,0.8,61.8,15.3,00AK,81.15
+394,Waltham Forest - Chapel End,14086.0,103.4,75.8,86.7,24.116143688769004,8.0,48.5,36.9,14.1,Waltham Forest,Chapel End,"14086, Waltham Forest",00BHFZ,15.7,8.2,18.7,0.9,95.7,31.2,00BH,81.25
+395,Hillingdon - Townfield,14106.0,94.6,74.8,79.4,23.1958032043102,9.8,62.9,44.7,18.1,Hillingdon,Townfield,"14106, Hillingdon",00ASGY,30.1,7.9,24.7,1.0,147.8,30.8,00AS,77.1
+396,Redbridge - Valentines,14123.0,99.7,75.9,86.4,24.031721305671603,8.7,77.6,50.3,21.0,Redbridge,Valentines,"14123, Redbridge",00BCGT,8.9,8.8,16.6,0.8,146.7,13.8,00BC,81.15
+397,Waltham Forest - High Street,14127.0,97.4,78.4,81.7,19.5087421250088,7.6,50.7,44.4,18.0,Waltham Forest,High Street,"14127, Waltham Forest",00BHGG,19.0,8.3,18.3,0.6,209.2,56.4,00BH,80.05000000000001
+398,Southwark - Livesey,14129.0,80.0,77.0,81.5,23.568546960152897,9.1,62.2,44.3,11.9,Southwark,Livesey,"14129, Southwark",00BEGM,66.9,13.1,23.8,0.4,126.4,4.5,00BE,79.25
+399,Southwark - Newington,14136.0,48.1,77.5,83.2,17.282116581777,8.5,48.2,42.5,13.6,Southwark,Newington,"14136, Southwark",00BEGN,54.2,7.8,19.4,0.4,97.6,3.8,00BE,80.35
+400,Lambeth - Vassall,14143.0,47.1,74.3,82.1,18.0159796365693,7.2,52.7,40.0,12.1,Lambeth,Vassall,"14143, Lambeth",00AYGW,53.2,11.0,16.0,0.4,100.4,16.8,00AY,78.19999999999999
+401,Hammersmith and Fulham - Askew,14160.0,50.8,74.6,78.2,17.217514124293803,7.8,37.0,42.5,14.8,Hammersmith and Fulham,Askew,"14160, Hammersmith and Fulham",00ANGB,34.8,6.7,13.7,0.5,73.1,3.6,00AN,76.4
+402,Wandsworth - Shaftesbury,14160.0,51.0,80.8,84.9,12.718926553672302,7.7,18.8,29.0,5.7,Wandsworth,Shaftesbury,"14160, Wandsworth",00BJGN,22.6,2.8,10.9,0.6,84.9,2.4,00BJ,82.85
+403,Tower Hamlets - Bethnal Green South,14166.0,51.0,77.1,87.3,19.709162784131,5.3,64.3,45.5,23.1,Tower Hamlets,Bethnal Green South,"14166, Tower Hamlets",00BGFX,44.9,10.9,21.4,0.3,128.5,16.9,00BG,82.19999999999999
+404,Waltham Forest - Leyton,14184.0,83.6,79.0,80.7,24.280879864636198,7.4,63.5,48.8,20.8,Waltham Forest,Leyton,"14184, Waltham Forest",00BHGM,34.5,12.5,21.1,0.6,104.6,27.1,00BH,79.85
+405,Ealing - Hobbayne,14229.0,77.7,77.5,86.0,22.6017288635884,11.3,37.7,40.7,17.2,Ealing,Hobbayne,"14229, Ealing",00AJGN,25.2,5.6,18.2,0.9,65.4,36.1,00AJ,81.75
+406,Lewisham - Whitefoot,14249.0,71.4,77.5,82.7,25.791283598849002,11.3,50.5,29.5,6.8,Lewisham,Whitefoot,"14249, Lewisham",00AZGX,34.5,8.8,25.9,0.8,95.8,27.9,00AZ,80.1
+407,Redbridge - Chadwell,14257.0,90.5,77.9,81.8,24.668583853545602,10.3,56.9,31.6,9.9,Redbridge,Chadwell,"14257, Redbridge",00BCGB,10.0,6.5,18.5,1.0,67.1,4.8,00BC,79.85
+408,Lambeth - Prince's,14262.0,65.9,74.5,81.5,16.8980507642687,9.3,43.4,38.5,12.4,Lambeth,Prince's,"14262, Lambeth",00AYGL,47.1,8.9,16.3,0.4,142.1,20.7,00AY,78.0
+409,Lambeth - Streatham Hill,14263.0,57.1,76.4,79.9,18.3201290051181,8.4,37.9,37.8,12.4,Lambeth,Streatham Hill,"14263, Lambeth",00AYGP,24.9,6.5,13.5,0.6,81.5,14.2,00AY,78.15
+410,Croydon - Shirley,14296.0,71.4,83.0,85.4,20.628147733631803,16.7,30.9,19.7,3.9,Croydon,Shirley,"14296, Croydon",00AHGY,18.5,4.7,19.1,1.2,39.6,16.0,00AH,84.2
+411,Greenwich - Kidbrooke with Hornfair,14300.0,73.2,76.2,84.1,20.3216783216783,11.9,33.6,27.3,7.6,Greenwich,Kidbrooke with Hornfair,"14300, Greenwich",00ALGZ,32.1,6.8,23.7,0.9,72.7,28.2,00AL,80.15
+412,Lambeth - Streatham South,14336.0,69.3,81.3,84.5,20.6682477678571,10.9,52.5,44.5,15.8,Lambeth,Streatham South,"14336, Lambeth",00AYGQ,15.5,7.6,17.0,0.8,69.7,26.6,00AY,82.9
+413,Ealing - Greenford Green,14349.0,94.4,79.0,84.0,20.9631333193951,11.9,49.0,50.1,21.9,Ealing,Greenford Green,"14349, Ealing",00AJGL,9.7,4.8,17.8,1.1,87.0,22.6,00AJ,81.5
+414,Hounslow - Brentford,14353.0,62.7,76.7,85.7,17.9126315056086,9.9,33.9,38.3,15.0,Hounslow,Brentford,"14353, Hounslow",00ATFZ,37.7,3.9,17.2,0.8,84.3,42.9,00AT,81.2
+415,Enfield - Jubilee,14355.0,92.0,77.2,82.2,23.7965865552072,11.9,50.9,40.8,16.9,Enfield,Jubilee,"14355, Enfield",00AKGX,15.5,9.1,28.5,1.0,61.4,60.6,00AK,79.7
+416,Islington - Finsbury Park,14358.0,46.8,74.2,78.8,18.4148210057111,8.5,42.9,41.6,17.5,Islington,Finsbury Park,"14358, Islington",00AUGC,43.4,9.6,20.6,0.3,182.9,15.9,00AU,76.5
+417,Hillingdon - West Drayton,14370.0,77.9,75.3,81.9,22.7557411273486,11.5,33.5,27.6,9.2,Hillingdon,West Drayton,"14370, Hillingdon",00ASHB,26.4,5.3,24.3,1.1,81.8,32.0,00AS,78.6
+418,Enfield - Turkey Street,14377.0,74.1,76.2,81.4,25.512972108228396,11.5,37.9,31.0,14.1,Enfield,Turkey Street,"14377, Enfield",00AKHF,26.3,9.5,30.2,1.0,74.6,30.5,00AK,78.80000000000001
+419,Greenwich - Charlton,14385.0,89.3,74.1,79.9,21.8143899895725,10.7,36.2,31.0,9.4,Greenwich,Charlton,"14385, Greenwich",00ALGR,41.1,7.4,20.8,0.7,66.2,31.6,00AL,77.0
+420,Southwark - Riverside,14390.0,50.0,78.0,80.8,12.4461431549687,6.4,31.2,40.5,12.7,Southwark,Riverside,"14390, Southwark",00BEGS,34.3,4.7,13.5,0.5,147.9,23.2,00BE,79.4
+421,Haringey - Northumberland Park,14429.0,81.7,73.8,84.0,27.0427611061058,7.9,60.9,53.5,25.5,Haringey,Northumberland Park,"14429, Haringey",00APGL,48.6,20.8,29.2,0.5,124.1,23.0,00AP,78.9
+422,Enfield - Southgate,14454.0,67.0,81.1,85.4,18.8390756883908,14.1,31.6,33.2,11.7,Enfield,Southgate,"14454, Enfield",00AKHC,7.4,4.6,16.1,1.1,59.3,27.2,00AK,83.25
+423,Tower Hamlets - Bromley-by-Bow,14480.0,80.8,76.3,83.0,26.7334254143646,5.8,70.4,43.5,22.0,Tower Hamlets,Bromley-by-Bow,"14480, Tower Hamlets",,,,,,,,,79.65
+424,Haringey - Bruce Grove,14483.0,83.9,75.2,83.0,22.460816129255,8.4,55.9,55.5,23.5,Haringey,Bruce Grove,"14483, Haringey",00APGC,28.2,15.3,22.5,0.5,111.6,4.9,00AP,79.1
+425,Enfield - Southbury,14506.0,87.5,79.6,81.3,24.982765752102605,9.5,36.2,30.2,12.0,Enfield,Southbury,"14506, Enfield",00AKHB,24.0,8.1,24.6,0.9,103.3,29.3,00AK,80.44999999999999
+426,Bromley - Chelsfield and Pratts Bottom,14507.0,52.6,83.0,85.6,19.2941338664093,18.7,9.7,9.7,1.3,Bromley,Chelsfield and Pratts Bottom,"14507, Bromley",00AFGH,4.6,2.3,16.4,1.5,32.7,69.2,00AF,84.3
+427,Haringey - Woodside,14514.0,59.0,74.0,84.4,19.1883698498002,8.5,43.2,54.2,25.6,Haringey,Woodside,"14514, Haringey",00APGU,23.2,9.2,20.0,0.6,99.2,26.8,00AP,79.2
+428,Lewisham - Ladywell,14515.0,63.6,74.5,79.2,18.325869789872502,8.9,45.4,35.4,9.4,Lewisham,Ladywell,"14515, Lewisham",00AZGN,23.6,6.1,12.8,0.7,90.7,25.6,00AZ,76.85
+429,Ealing - Elthorne,14539.0,71.4,74.8,85.5,19.698741316459202,9.7,34.9,40.6,16.9,Ealing,Elthorne,"14539, Ealing",00AJGJ,20.2,5.9,15.1,0.8,103.8,34.2,00AJ,80.15
+430,Redbridge - Aldborough,14544.0,69.2,77.4,82.2,23.0060506050605,12.4,61.3,38.4,12.8,Redbridge,Aldborough,"14544, Redbridge",00BCFY,11.3,5.3,19.6,1.1,100.4,76.8,00BC,79.80000000000001
+431,Lambeth - St. Leonard's,14550.0,69.1,76.2,82.3,17.0378006872852,7.6,38.9,40.4,15.8,Lambeth,St. Leonard's,"14550, Lambeth",00AYGM,14.0,7.3,12.6,0.6,129.7,13.2,00AY,79.25
+432,Ealing - Cleveland,14558.0,59.1,76.8,85.9,21.706278334936105,11.9,36.9,39.6,15.1,Ealing,Cleveland,"14558, Ealing",00AJGD,21.5,5.6,13.1,0.9,52.3,34.8,00AJ,81.35
+433,Lewisham - Downham,14567.0,66.7,74.3,81.8,24.7065284547264,12.7,41.7,24.8,6.2,Lewisham,Downham,"14567, Lewisham",00AZGJ,40.9,9.9,30.2,0.7,90.4,30.1,00AZ,78.05
+434,Lewisham - Lee Green,14573.0,78.0,77.1,81.2,19.309682289164897,10.9,33.7,28.9,8.1,Lewisham,Lee Green,"14573, Lewisham",00AZGP,21.2,6.3,14.6,0.7,84.4,11.9,00AZ,79.15
+435,Wandsworth - Bedford,14575.0,51.1,78.2,82.6,14.6415094339623,7.5,27.6,30.3,8.3,Wandsworth,Bedford,"14575, Wandsworth",00BJGA,16.1,2.9,9.1,0.7,62.2,47.9,00BJ,80.4
+436,Ealing - Southall Green,14579.0,111.7,75.9,87.1,22.326634199876498,8.2,91.4,63.3,36.7,Ealing,Southall Green,"14579, Ealing",00AJGZ,13.6,10.9,23.6,0.9,102.7,16.3,00AJ,81.5
+437,Haringey - Tottenham Green,14580.0,64.6,72.5,82.8,20.418381344307303,8.2,52.8,55.0,25.8,Haringey,Tottenham Green,"14580, Haringey",00APGQ,39.2,12.7,22.7,0.4,151.9,10.5,00AP,77.65
+438,Waltham Forest - Grove Green,14604.0,80.5,74.4,80.8,19.042728019720602,7.1,53.2,53.0,21.2,Waltham Forest,Grove Green,"14604, Waltham Forest",00BHGD,9.1,7.1,15.7,0.6,69.1,4.3,00BH,77.6
+439,Croydon - Purley,14607.0,79.6,79.6,83.6,19.4632710344355,15.0,31.6,23.1,5.0,Croydon,Purley,"14607, Croydon",00AHGT,7.6,4.4,12.9,1.2,81.7,3.8,00AH,81.6
+440,Wandsworth - Fairfield,14613.0,46.2,77.2,80.3,12.6736467528913,6.7,22.1,32.5,7.1,Wandsworth,Fairfield,"14613, Wandsworth",00BJGD,15.2,2.4,8.5,0.7,83.7,11.2,00BJ,78.75
+441,Bromley - Farnborough and Crofton,14632.0,53.1,79.6,86.6,18.630399125205,23.0,9.5,10.0,1.4,Bromley,Farnborough and Crofton,"14632, Bromley",00AFGR,8.8,2.2,18.1,1.3,38.8,49.7,00AF,83.1
+442,Haringey - St. Ann's,14638.0,76.2,73.6,81.8,18.247028282552304,8.5,45.7,54.7,25.9,Haringey,St. Ann's,"14638, Haringey",00APGM,23.6,11.3,20.4,0.5,91.5,20.0,00AP,77.69999999999999
+443,Islington - Bunhill,14639.0,44.5,75.5,82.1,13.4503722931894,7.9,34.5,41.9,16.6,Islington,Bunhill,"14639, Islington",00AUFY,47.3,6.5,15.8,0.3,179.7,13.5,00AU,78.8
+444,Lewisham - Grove Park,14648.0,66.4,77.2,82.2,20.8287820862916,12.6,37.5,26.9,7.0,Lewisham,Grove Park,"14648, Lewisham",00AZGM,26.7,7.1,22.5,0.9,69.9,21.6,00AZ,79.7
+445,Redbridge - Clementswood,14666.0,93.1,76.7,81.2,26.639847265784802,7.4,84.2,55.6,25.1,Redbridge,Clementswood,"14666, Redbridge",00BCGE,10.7,9.1,18.6,0.8,183.3,7.7,00BC,78.95
+446,Wandsworth - Nightingale,14679.0,63.3,75.3,79.2,16.2068260780707,9.5,21.4,27.7,6.7,Wandsworth,Nightingale,"14679, Wandsworth",00BJGH,13.1,2.7,8.9,0.7,63.7,9.5,00BJ,77.25
+447,Havering - Gooshays,14692.0,68.6,76.3,80.4,23.2371358562483,12.9,12.8,10.7,2.6,Havering,Gooshays,"14692, Havering",00ARGG,41.9,9.3,34.2,1.0,86.2,68.4,00AR,78.35
+448,Ealing - North Greenford,14713.0,87.7,79.8,87.4,20.288180520628,11.4,56.4,51.4,22.1,Ealing,North Greenford,"14713, Ealing",00AJGR,8.3,3.8,16.9,1.2,69.6,53.3,00AJ,83.6
+449,Southwark - Peckham,14720.0,89.0,75.8,77.8,24.2663043478261,6.2,70.8,47.6,12.3,Southwark,Peckham,"14720, Southwark",00BEGQ,59.4,14.4,19.6,0.5,126.2,7.0,00BE,76.8
+450,Croydon - Ashburton,14721.0,60.0,78.5,82.3,21.7784117926771,13.2,36.7,22.3,4.8,Croydon,Ashburton,"14721, Croydon",00AHGF,21.5,5.4,19.5,1.1,62.7,22.2,00AH,80.4
+451,Brent - Wembley Central,14727.0,88.1,76.8,88.2,18.2114483601548,9.7,86.0,68.5,32.9,Brent,Wembley Central,"14727, Brent",00AEHE,15.6,6.0,20.7,0.8,156.3,20.1,00AE,82.5
+452,Hounslow - Hounslow Heath,14727.0,97.2,76.0,87.6,23.114008284104,7.8,72.6,58.0,27.7,Hounslow,Hounslow Heath,"14727, Hounslow",00ATGM,20.0,6.0,15.7,0.9,97.3,48.7,00AT,81.8
+453,Hackney - Dalston,14727.0,57.2,80.9,79.8,16.4595640660012,6.2,44.5,40.8,14.0,Hackney,Dalston,"14727, Hackney",00AMGE,38.9,12.0,15.9,0.4,198.0,17.1,00AM,80.35
+454,Wandsworth - West Putney,14742.0,50.4,75.6,79.9,17.799484466151103,13.3,22.9,34.4,9.5,Wandsworth,West Putney,"14742, Wandsworth",00BJGU,22.9,3.8,14.5,0.8,51.6,20.5,00BJ,77.75
+455,Wandsworth - Balham,14751.0,59.5,79.3,84.4,15.687072062911,7.8,19.4,28.5,6.5,Wandsworth,Balham,"14751, Wandsworth",00BJFZ,10.9,2.4,7.1,0.7,90.3,11.7,00BJ,81.85
+456,Lambeth - Knight's Hill,14763.0,73.7,74.4,79.4,23.2473074578338,9.0,47.7,35.3,11.6,Lambeth,Knight's Hill,"14763, Lambeth",00AYGH,30.6,9.1,15.9,0.6,90.8,13.3,00AY,76.9
+457,Hillingdon - Pinkwell,14767.0,94.4,74.5,86.2,26.335748628699104,8.6,68.2,45.3,18.5,Hillingdon,Pinkwell,"14767, Hillingdon",00ASGW,20.4,6.0,22.0,1.2,97.8,26.9,00AS,80.35
+458,Lewisham - Bellingham,14775.0,76.6,75.2,79.1,25.1573604060914,10.2,51.3,29.6,6.2,Lewisham,Bellingham,"14775, Lewisham",00AZGD,44.0,9.5,25.4,0.7,103.1,46.7,00AZ,77.15
+459,Tower Hamlets - Bow East,14781.0,64.2,71.3,80.8,17.4616061159597,7.4,39.9,30.9,10.9,Tower Hamlets,Bow East,"14781, Tower Hamlets",00BGFZ,42.8,10.5,21.4,0.4,113.1,30.3,00BG,76.05
+460,Newham - Canning Town North,14810.0,72.4,74.6,75.9,22.9574611748818,7.7,59.2,47.9,18.6,Newham,Canning Town North,"14810, Newham",00BBGD,49.3,14.4,25.7,0.5,125.7,21.7,00BB,75.25
+461,Bromley - Chislehurst,14831.0,59.7,81.2,83.0,17.982604005124397,21.5,12.0,12.7,1.9,Bromley,Chislehurst,"14831, Bromley",00AFGJ,7.1,2.9,15.8,1.4,70.1,60.0,00AF,82.1
+462,Wandsworth - Thamesfield,14842.0,63.7,81.4,82.9,15.1731572564344,8.8,12.3,31.4,5.8,Wandsworth,Thamesfield,"14842, Wandsworth",00BJGQ,7.5,1.3,6.3,0.8,104.9,34.5,00BJ,82.15
+463,Newham - Wall End,14846.0,89.0,78.6,80.3,25.239121648929,6.5,82.2,59.8,29.7,Newham,Wall End,"14846, Newham",00BBGW,17.7,8.4,19.6,0.7,63.7,33.9,00BB,79.44999999999999
+464,Lewisham - Forest Hill,14854.0,74.1,76.5,80.4,21.1188905345362,10.0,38.2,31.1,8.2,Lewisham,Forest Hill,"14854, Lewisham",00AZGL,26.4,7.6,13.9,0.7,78.2,22.2,00AZ,78.45
+465,Tower Hamlets - East India and Lansbury,14859.0,102.2,74.9,81.8,27.7676828857931,7.0,63.7,39.5,18.6,Tower Hamlets,East India and Lansbury,"14859, Tower Hamlets",00BGGC,57.5,19.5,30.7,0.4,107.4,12.5,00BG,78.35
+466,Tower Hamlets - Whitechapel,14862.0,66.9,73.6,83.2,16.3706096083973,5.6,60.2,48.8,24.8,Tower Hamlets,Whitechapel,"14862, Tower Hamlets",00BGGN,32.9,9.3,17.1,0.3,146.5,5.4,00BG,78.4
+467,Ealing - South Acton,14873.0,62.9,76.4,79.8,20.453170174141103,11.1,43.5,50.5,23.4,Ealing,South Acton,"14873, Ealing",00AJGX,33.9,7.3,16.2,0.7,106.8,17.5,00AJ,78.1
+468,Bromley - West Wickham,14884.0,52.2,80.9,84.7,19.8535339962376,19.7,10.6,9.7,1.3,Bromley,West Wickham,"14884, Bromley",00AFHB,4.4,2.2,15.2,1.4,40.8,32.6,00AF,82.80000000000001
+469,Enfield - Town,14906.0,61.6,79.9,83.8,20.1730846638937,14.9,18.0,17.1,4.4,Enfield,Town,"14906, Enfield",00AKHE,6.1,3.8,17.4,1.2,54.5,16.0,00AK,81.85
+470,Lambeth - Streatham Wells,14906.0,68.6,75.4,77.7,19.327787468133604,8.3,43.1,41.2,14.2,Lambeth,Streatham Wells,"14906, Lambeth",00AYGR,20.8,6.2,13.9,0.6,81.4,18.3,00AY,76.55000000000001
+471,Brent - Kensal Green,14915.0,94.6,76.7,83.1,19.5507877975193,9.0,52.3,50.2,21.9,Brent,Kensal Green,"14915, Brent",00AEGR,26.7,13.3,19.7,0.6,141.0,6.9,00AE,79.9
+472,Lewisham - Rushey Green,14916.0,78.2,75.2,80.1,22.036739072137298,9.0,59.1,38.0,10.2,Lewisham,Rushey Green,"14916, Lewisham",00AZGT,26.9,9.2,18.0,0.6,140.6,24.1,00AZ,77.65
+473,Lewisham - Crofton Park,14937.0,84.4,78.5,86.4,19.5353819374707,9.1,39.6,30.1,7.0,Lewisham,Crofton Park,"14937, Lewisham",00AZGH,16.8,5.9,15.3,0.7,70.7,20.7,00AZ,82.45
+474,Wandsworth - Northcote,14940.0,72.9,80.1,81.1,19.0361445783133,6.0,14.9,28.9,5.7,Wandsworth,Northcote,"14940, Wandsworth",00BJGJ,13.6,2.3,6.7,0.8,112.9,34.0,00BJ,80.6
+475,Southwark - Cathedrals,14941.0,26.6,75.0,93.3,10.6887089217589,7.4,38.4,40.0,10.4,Southwark,Cathedrals,"14941, Southwark",00BEGE,42.8,7.1,12.7,0.4,208.6,15.3,00BE,84.15
+476,Brent - Sudbury,14950.0,115.0,80.5,84.8,20.6622073578595,10.5,77.3,62.2,28.4,Brent,Sudbury,"14950, Brent",00AEHB,15.0,6.1,18.1,0.9,82.5,34.6,00AE,82.65
+477,Havering - Brooklands,14957.0,67.1,73.8,77.7,21.0670589021863,13.5,22.3,17.4,4.4,Havering,Brooklands,"14957, Havering",00ARGC,17.4,5.0,24.9,1.0,76.8,44.9,00AR,75.75
+478,Croydon - Kenley,14966.0,76.0,78.0,80.7,20.7603902178271,14.9,23.2,17.9,3.0,Croydon,Kenley,"14966, Croydon",00AHGQ,11.4,4.0,14.6,1.3,39.8,39.6,00AH,79.35
+479,Islington - Holloway,14983.0,35.0,72.8,81.1,15.5776546752987,8.2,36.1,39.6,14.9,Islington,Holloway,"14983, Islington",00AUGG,46.5,6.2,18.8,0.4,79.4,16.9,00AU,76.94999999999999
+480,Wandsworth - East Putney,15022.0,45.7,80.7,85.1,13.273864998002901,11.0,20.6,39.4,9.3,Wandsworth,East Putney,"15022, Wandsworth",00BJGC,11.3,2.2,7.9,0.7,49.0,11.0,00BJ,82.9
+481,Islington - Highbury West,15030.0,54.4,75.3,85.1,15.189620758483,6.7,32.1,34.5,12.8,Islington,Highbury West,"15030, Islington",00AUGE,33.5,6.0,12.6,0.4,86.8,10.5,00AU,80.19999999999999
+482,Southwark - Camberwell Green,15032.0,69.6,74.4,85.1,21.1881319850985,7.4,61.1,46.8,13.4,Southwark,Camberwell Green,"15032, Southwark",00BEGD,63.5,11.6,19.3,0.4,128.1,1.6,00BE,79.75
+483,Lambeth - Ferndale,15032.0,37.5,74.8,82.6,12.5598722724854,6.2,40.4,41.7,11.8,Lambeth,Ferndale,"15032, Lambeth",00AYGE,37.4,6.6,13.3,0.4,172.6,10.2,00AY,78.69999999999999
+484,Hillingdon - Botwell,15034.0,94.5,75.6,82.0,24.9634162564853,9.1,60.2,42.7,17.9,Hillingdon,Botwell,"15034, Hillingdon",00ASGH,25.2,7.6,24.0,1.1,111.0,32.2,00AS,78.8
+485,Brent - Dudden Hill,15059.0,76.0,85.3,88.1,20.399760940301498,9.7,55.9,56.2,23.8,Brent,Dudden Hill,"15059, Brent",00AEGN,19.9,9.1,19.8,0.8,112.1,11.5,00AE,86.69999999999999
+486,Haringey - Tottenham Hale,15064.0,69.1,75.7,78.3,23.645778013807803,7.8,57.4,53.5,22.3,Haringey,Tottenham Hale,"15064, Haringey",00APGR,39.2,11.8,24.7,0.5,133.3,29.0,00AP,77.0
+487,Bromley - Bickley,15098.0,57.7,78.3,81.5,19.2210888859452,19.8,14.5,15.7,2.7,Bromley,Bickley,"15098, Bromley",00AFGD,7.0,2.4,14.5,1.4,45.3,22.1,00AF,79.9
+488,Brent - Tokyngton,15105.0,99.6,80.5,86.6,18.417742469381,11.3,76.3,62.9,26.6,Brent,Tokyngton,"15105, Brent",00AEHC,12.0,4.7,19.4,0.9,132.9,19.7,00AE,83.55
+489,Lambeth - Oval,15106.0,42.1,77.1,79.8,13.9944392956441,7.2,36.9,42.6,15.0,Lambeth,Oval,"15106, Lambeth",00AYGK,34.8,6.0,13.0,0.4,146.2,24.9,00AY,78.44999999999999
+490,Lambeth - Herne Hill,15107.0,67.3,74.3,82.8,18.3689680280665,7.2,39.6,35.3,10.8,Lambeth,Herne Hill,"15107, Lambeth",00AYGG,31.8,8.5,12.2,0.5,133.6,37.9,00AY,78.55
+491,Tower Hamlets - Shadwell,15110.0,78.3,81.0,95.2,22.3891462607545,6.3,64.4,45.1,23.2,Tower Hamlets,Shadwell,"15110, Tower Hamlets",00BGGK,42.7,14.8,21.3,0.4,77.9,24.2,00BG,88.1
+492,Newham - Green Street West,15113.0,86.8,80.7,86.6,21.015020181300898,7.4,89.3,61.1,32.7,Newham,Green Street West,"15113, Newham",00BBGN,13.5,9.7,21.6,0.7,85.5,3.2,00BB,83.65
+493,Bromley - Bromley Common and Keston,15113.0,63.5,79.8,83.6,20.743730563091397,16.6,12.8,12.1,1.9,Bromley,Bromley Common and Keston,"15113, Bromley",00AFGF,15.7,4.3,20.5,1.3,52.8,59.3,00AF,81.69999999999999
+494,Ealing - Northolt West End,15121.0,102.2,78.6,86.0,25.553865485086998,9.8,55.1,41.5,18.6,Ealing,Northolt West End,"15121, Ealing",00AJGT,34.5,9.4,25.1,0.9,116.4,56.3,00AJ,82.3
+495,Bromley - Plaistow and Sundridge,15122.0,68.7,77.8,81.2,19.6270334611824,14.8,19.3,16.9,3.9,Bromley,Plaistow and Sundridge,"15122, Bromley",00AFGZ,17.4,4.7,18.6,1.0,59.5,40.5,00AF,79.5
+496,Newham - Beckton,15141.0,55.1,81.9,82.6,21.9932633247474,4.8,54.2,49.7,23.5,Newham,Beckton,"15141, Newham",00BBGB,36.5,6.5,19.2,0.7,121.2,30.9,00BB,82.25
+497,Brent - Queensbury,15155.0,73.2,85.1,85.8,20.0857802705378,12.2,72.9,57.7,24.1,Brent,Queensbury,"15155, Brent",00AEGZ,15.3,4.2,21.4,1.2,85.0,13.7,00AE,85.44999999999999
+498,Barnet - Totteridge,15159.0,68.7,80.3,83.0,20.1068672075994,16.8,34.3,37.6,13.7,Barnet,Totteridge,"15159, Barnet",00ACGP,8.7,2.5,13.0,1.3,49.2,57.7,00AC,81.65
+499,Enfield - Palmers Green,15162.0,64.8,78.9,83.3,18.8431605329112,13.3,35.4,41.4,18.1,Enfield,Palmers Green,"15162, Enfield",00AKGZ,9.0,5.7,20.6,1.0,80.2,15.4,00AK,81.1
+500,Redbridge - Seven Kings,15164.0,82.3,78.0,79.7,24.2152466367713,9.2,76.7,47.6,19.3,Redbridge,Seven Kings,"15164, Redbridge",00BCGR,8.2,8.0,18.4,1.0,96.4,30.0,00BC,78.85
+501,Hounslow - Hounslow Central,15169.0,81.6,78.5,87.0,18.5312149779155,9.5,70.7,64.5,29.5,Hounslow,Hounslow Central,"15169, Hounslow",00ATGL,16.9,3.9,12.8,0.7,213.4,11.1,00AT,82.75
+502,Hackney - Hoxton,15174.0,47.7,77.9,84.0,15.862659812837698,6.2,46.5,44.8,16.6,Hackney,Hoxton,"15174, Hackney",00AMGK,54.3,9.4,17.7,0.3,103.8,27.6,00AM,80.95
+503,Southwark - Chaucer,15178.0,36.3,88.5,97.5,14.824087495058599,5.2,49.9,45.2,13.3,Southwark,Chaucer,"15178, Southwark",00BEGF,43.3,6.4,11.3,0.4,122.6,5.6,00BE,93.0
+504,Ealing - Northolt Mandeville,15183.0,91.7,77.6,85.0,23.506553382072102,10.7,51.7,44.1,19.5,Ealing,Northolt Mandeville,"15183, Ealing",00AJGS,24.2,7.8,21.5,0.9,95.4,34.4,00AJ,81.3
+505,Tower Hamlets - Mile End and Globe Town,15190.0,35.2,76.5,86.4,18.8940092165899,6.6,52.6,40.6,16.4,Tower Hamlets,Mile End and Globe Town,"15190, Tower Hamlets",00BGGE,46.0,8.8,19.5,0.4,85.0,12.4,00BG,81.45
+506,Wandsworth - Graveney,15198.0,63.8,76.9,84.0,17.8707724700618,8.8,46.4,42.4,14.4,Wandsworth,Graveney,"15198, Wandsworth",00BJGF,17.8,5.2,14.7,0.6,105.1,2.6,00BJ,80.45
+507,Lewisham - Catford South,15214.0,68.9,77.4,81.4,21.4670698041278,11.3,56.2,32.2,7.1,Lewisham,Catford South,"15214, Lewisham",00AZGG,12.6,6.5,17.3,0.9,57.0,3.0,00AZ,79.4
+508,Wandsworth - Wandsworth Common,15247.0,72.8,76.7,79.6,18.6922017446055,8.1,17.8,25.7,4.5,Wandsworth,Wandsworth Common,"15247, Wandsworth",00BJGS,12.6,2.1,11.0,1.0,60.6,48.2,00BJ,78.15
+509,Brent - Queens Park,15281.0,76.3,80.4,87.9,17.983116288201,8.6,37.0,41.9,14.4,Brent,Queens Park,"15281, Brent",00AEGY,19.9,6.9,13.3,0.7,115.0,19.1,00AE,84.15
+510,Barnet - High Barnet,15307.0,56.5,78.2,82.3,18.455608545110103,16.5,18.3,22.1,6.3,Barnet,High Barnet,"15307, Barnet",00ACGL,7.7,2.9,13.1,1.2,81.9,47.9,00AC,80.25
+511,Bromley - Orpington,15311.0,57.0,79.1,84.6,19.1626934883417,21.2,12.6,11.9,2.3,Bromley,Orpington,"15311, Bromley",00AFGW,15.8,4.8,22.3,1.2,77.6,26.3,00AF,81.85
+512,Newham - Manor Park,15318.0,97.6,75.3,79.5,23.5082908995952,7.1,81.5,56.2,27.6,Newham,Manor Park,"15318, Newham",00BBGQ,22.5,10.9,20.7,0.7,83.3,26.6,00BB,77.4
+513,Ealing - Perivale,15339.0,88.3,82.6,87.0,20.1251711324076,11.0,54.6,55.4,26.7,Ealing,Perivale,"15339, Ealing",00AJGW,8.5,5.0,17.4,1.1,89.0,38.3,00AJ,84.8
+514,Wandsworth - Latchmere,15358.0,59.1,73.0,81.5,18.9608021877849,8.5,44.5,39.7,11.5,Wandsworth,Latchmere,"15358, Wandsworth",00BJGG,47.0,8.2,17.9,0.4,85.0,12.5,00BJ,77.25
+515,Southwark - Grange,15362.0,59.7,77.9,81.1,14.106236167165699,6.5,39.1,38.3,10.8,Southwark,Grange,"15362, Southwark",00BEGL,45.0,7.6,15.7,0.4,140.5,4.5,00BE,79.5
+516,Bromley - Copers Cope,15392.0,61.5,77.4,82.4,13.169178794178801,16.8,17.4,20.3,4.6,Bromley,Copers Cope,"15392, Bromley",00AFGL,9.2,3.1,12.1,1.0,69.5,17.1,00AF,79.9
+517,Ealing - Acton Central,15427.0,75.1,81.3,90.7,19.66033577494,9.6,40.0,48.3,21.0,Ealing,Acton Central,"15427, Ealing",00AJGC,23.3,6.6,14.3,0.7,100.9,24.2,00AJ,86.0
+518,Bromley - Cray Valley East,15445.0,70.1,77.6,81.1,22.1819359015863,15.9,14.6,12.3,2.5,Bromley,Cray Valley East,"15445, Bromley",00AFGM,24.7,6.1,27.9,1.0,115.7,76.4,00AF,79.35
+519,Wandsworth - Earlsfield,15448.0,68.1,76.1,84.2,14.9598653547385,6.7,27.7,33.4,8.2,Wandsworth,Earlsfield,"15448, Wandsworth",00BJGB,21.7,3.1,11.9,0.7,68.0,16.7,00BJ,80.15
+520,Newham - Plaistow North,15470.0,96.0,75.3,82.2,23.6005171299289,7.1,73.4,52.1,23.6,Newham,Plaistow North,"15470, Newham",00BBGR,41.7,11.3,23.6,0.5,74.0,10.3,00BB,78.75
+521,Brent - Preston,15474.0,100.4,80.1,86.2,20.427814398345603,12.4,70.0,57.3,22.8,Brent,Preston,"15474, Brent",00AEGX,12.6,4.9,17.5,1.0,86.3,19.1,00AE,83.15
+522,Wandsworth - Furzedown,15504.0,74.2,77.2,81.4,22.045923632610897,9.8,43.1,36.7,12.9,Wandsworth,Furzedown,"15504, Wandsworth",00BJGE,16.8,6.5,15.5,0.7,54.0,18.8,00BJ,79.30000000000001
+523,Brent - Mapesbury,15529.0,72.6,78.6,86.0,16.066713890141,8.3,43.4,52.3,21.3,Brent,Mapesbury,"15529, Brent",00AEGU,19.2,7.3,14.5,0.6,97.9,9.7,00AE,82.3
+524,Hounslow - Feltham West,15541.0,93.6,77.1,82.7,24.9919567595393,6.3,35.5,32.3,14.2,Hounslow,Feltham West,"15541, Hounslow",00ATGE,27.2,4.5,20.5,1.0,92.2,41.4,00AT,79.9
+525,Newham - West Ham,15551.0,64.1,77.2,80.9,21.5998971127259,7.0,65.5,51.2,22.1,Newham,West Ham,"15551, Newham",00BBGX,40.9,10.9,20.9,0.5,78.6,27.2,00BB,79.05000000000001
+526,Bromley - Clock House,15560.0,77.7,78.8,84.7,19.7879177377892,11.5,20.6,17.3,3.9,Bromley,Clock House,"15560, Bromley",00AFGK,12.6,3.7,15.2,1.0,51.4,16.3,00AF,81.75
+527,Ealing - Hanger Hill,15561.0,71.1,83.2,88.2,18.9705031810295,12.8,43.1,53.1,23.8,Ealing,Hanger Hill,"15561, Ealing",00AJGM,4.7,3.3,9.2,1.0,73.2,26.7,00AJ,85.7
+528,Southwark - The Lane,15565.0,87.8,74.5,83.8,19.8393832316094,9.1,50.7,37.7,8.5,Southwark,The Lane,"15565, Southwark",00BEGY,41.5,9.7,17.5,0.5,150.3,6.0,00BE,79.15
+529,Newham - East Ham South,15575.0,100.0,74.9,80.2,27.8523274478331,7.4,67.7,46.6,19.7,Newham,East Ham South,"15575, Newham",00BBGJ,31.1,10.4,24.3,0.7,92.0,23.5,00BB,77.55000000000001
+530,Brent - Willesden Green,15587.0,54.4,78.2,88.1,19.1634054019375,7.6,52.7,56.3,25.9,Brent,Willesden Green,"15587, Brent",00AEHF,26.8,8.9,18.5,0.5,127.5,36.8,00AE,83.15
+531,Lewisham - Sydenham,15605.0,71.8,75.4,80.3,20.1666132649792,11.9,41.8,30.2,7.1,Lewisham,Sydenham,"15605, Lewisham",00AZGU,34.7,8.0,18.7,0.7,83.7,13.1,00AZ,77.85
+532,Lewisham - Perry Vale,15618.0,73.5,76.2,80.8,20.687668075297697,9.6,42.5,30.5,7.2,Lewisham,Perry Vale,"15618, Lewisham",00AZGS,26.5,7.1,16.2,0.7,74.7,9.7,00AZ,78.5
+533,Enfield - Ponders End,15664.0,61.6,77.6,80.8,25.9001532175689,9.1,54.6,43.5,19.0,Enfield,Ponders End,"15664, Enfield",00AKHA,25.6,13.7,26.9,0.8,93.0,44.5,00AK,79.19999999999999
+534,Waltham Forest - Lea Bridge,15671.0,107.0,73.2,77.7,23.891264118435302,8.4,64.8,50.4,21.2,Waltham Forest,Lea Bridge,"15671, Waltham Forest",00BHGL,18.4,11.9,23.0,0.6,127.3,40.1,00BH,75.45
+535,Greenwich - Abbey Wood,15704.0,105.3,74.3,81.1,26.853031074885397,9.6,46.3,32.0,7.6,Greenwich,Abbey Wood,"15704, Greenwich",00ALGP,38.9,9.0,25.3,0.7,82.9,43.9,00AL,77.69999999999999
+536,Barnet - Finchley Church End,15715.0,72.1,82.4,86.3,18.7527839643653,16.5,33.1,40.9,14.5,Barnet,Finchley Church End,"15715, Barnet",00ACGF,4.9,3.4,12.3,1.2,53.5,13.7,00AC,84.35
+537,Lewisham - New Cross,15756.0,74.9,73.7,78.2,20.1891342980452,5.9,59.7,46.6,15.3,Lewisham,New Cross,"15756, Lewisham",00AZGR,40.5,10.0,17.9,0.5,144.9,16.6,00AZ,75.95
+538,Lambeth - Tulse Hill,15771.0,63.2,77.4,81.4,21.0259336757339,6.6,52.6,38.6,11.3,Lambeth,Tulse Hill,"15771, Lambeth",00AYGU,43.2,11.0,14.7,0.5,95.8,16.6,00AY,79.4
+539,Brent - Barnhill,15772.0,79.0,79.6,82.7,20.8787725082425,12.3,69.7,56.5,22.9,Brent,Barnhill,"15772, Brent",00AEGK,26.6,6.7,18.1,1.0,83.4,31.6,00AE,81.15
+540,Croydon - Croham,15790.0,77.8,78.9,83.3,18.2457251424953,12.0,31.3,24.3,6.5,Croydon,Croham,"15790, Croydon",00AHGL,8.3,4.4,12.0,1.0,73.3,19.1,00AH,81.1
+541,Barnet - Oakleigh,15811.0,72.5,78.9,84.3,19.1006261463538,16.4,26.7,28.5,8.6,Barnet,Oakleigh,"15811, Barnet",00ACGN,7.3,3.7,14.7,1.3,59.6,15.3,00AC,81.6
+542,Lambeth - Brixton Hill,15842.0,44.5,74.8,78.4,15.7050877414468,7.0,41.5,37.4,11.1,Lambeth,Brixton Hill,"15842, Lambeth",00AYGA,32.2,7.9,13.8,0.5,112.2,13.1,00AY,76.6
+543,Newham - Green Street East,15885.0,96.4,81.9,83.0,22.259993704752898,5.7,89.9,62.2,33.2,Newham,Green Street East,"15885, Newham",00BBGM,12.8,9.5,20.3,0.6,70.4,2.4,00BB,82.45
+544,Bromley - Kelsey and Eden Park,15892.0,46.1,82.0,85.0,20.2554744525547,17.5,16.0,13.6,2.5,Bromley,Kelsey and Eden Park,"15892, Bromley",00AFGT,8.6,3.1,17.1,1.3,79.6,43.6,00AF,83.5
+545,Bromley - Hayes and Coney Hall,15906.0,48.9,80.5,86.7,20.042751163083103,17.9,8.3,8.7,1.0,Bromley,Hayes and Coney Hall,"15906, Bromley",00AFGS,3.1,2.2,15.7,1.4,38.0,69.5,00AF,83.6
+546,Barnet - Underhill,15915.0,48.9,78.2,82.6,20.5717876217405,16.2,27.3,25.4,6.9,Barnet,Underhill,"15915, Barnet",00ACGQ,25.7,5.4,21.6,1.1,64.4,43.7,00AC,80.4
+547,Newham - East Ham Central,15917.0,104.2,75.1,81.7,22.453980021360803,7.1,81.9,61.4,29.1,Newham,East Ham Central,"15917, Newham",00BBGG,15.7,8.4,19.3,0.6,174.4,10.9,00BB,78.4
+548,Havering - Romford Town,15921.0,70.0,76.4,81.0,17.6747691727907,14.0,16.4,16.6,5.6,Havering,Romford Town,"15921, Havering",00ARGR,13.0,5.0,21.0,0.9,225.4,8.1,00AR,78.7
+549,Barnet - Garden Suburb,15929.0,73.5,82.7,87.3,20.3653713353004,16.3,21.4,36.0,10.9,Barnet,Garden Suburb,"15929, Barnet",00ACGG,4.9,2.0,8.2,7.2,82.1,24.2,00AC,85.0
+550,Haringey - Seven Sisters,15968.0,90.7,77.6,89.3,27.041583166332696,7.3,41.2,49.1,22.5,Haringey,Seven Sisters,"15968, Haringey",00APGN,31.8,10.3,24.4,0.5,95.2,23.4,00AP,83.44999999999999
+551,Newham - Boleyn,15982.0,89.0,75.6,82.4,24.940558127893897,7.5,78.1,54.8,26.4,Newham,Boleyn,"15982, Newham",00BBGC,25.8,9.8,22.4,0.6,109.5,6.1,00BB,79.0
+552,Tower Hamlets - Limehouse,15986.0,70.3,77.0,79.3,22.275741273614397,6.2,56.8,43.8,19.7,Tower Hamlets,Limehouse,"15986, Tower Hamlets",00BGGD,41.2,11.7,21.9,0.5,84.2,23.4,00BG,78.15
+553,Barnet - East Finchley,15989.0,67.8,79.3,84.9,18.869222590531002,13.0,28.2,34.4,10.4,Barnet,East Finchley,"15989, Barnet",00ACGD,22.2,4.2,14.1,0.8,69.4,37.8,00AC,82.1
+554,Newham - Canning Town South,15996.0,59.8,74.5,85.9,21.0865216304076,7.1,54.5,47.5,19.9,Newham,Canning Town South,"15996, Newham",00BBGE,36.0,9.2,22.6,0.5,86.2,26.6,00BB,80.2
+555,Enfield - Enfield Highway,16027.0,70.6,78.1,86.2,26.255693517189698,10.3,42.2,34.3,14.5,Enfield,Enfield Highway,"16027, Enfield",00AKGR,24.4,9.6,30.1,1.0,87.8,40.6,00AK,82.15
+556,Croydon - Upper Norwood,16082.0,82.2,78.1,82.8,20.992413878870803,11.0,51.3,33.9,9.0,Croydon,Upper Norwood,"16082, Croydon",00AHHB,20.6,7.7,16.6,0.9,85.7,19.5,00AH,80.44999999999999
+557,Wandsworth - Roehampton,16132.0,48.3,74.1,81.2,18.4540044631788,10.5,34.5,38.6,15.5,Wandsworth,Roehampton,"16132, Wandsworth",00BJGL,46.0,8.3,18.2,0.6,84.7,70.6,00BJ,77.65
+558,Barnet - East Barnet,16137.0,65.8,80.5,84.5,20.7225630538514,13.7,23.4,23.4,7.2,Barnet,East Barnet,"16137, Barnet",00ACGC,9.8,4.3,17.1,1.2,59.0,34.9,00AC,82.5
+559,Croydon - Bensham Manor,16201.0,90.1,80.9,84.3,23.060304919449397,9.8,73.5,45.3,12.9,Croydon,Bensham Manor,"16201, Croydon",00AHGG,11.9,8.5,17.9,0.8,68.8,7.7,00AH,82.6
+560,Tower Hamlets - St. Dunstan's and Stepney Green,16238.0,92.9,71.6,77.3,23.7159748737529,8.5,65.2,39.8,19.8,Tower Hamlets,St. Dunstan's and Stepney Green,"16238, Tower Hamlets",00BGGH,54.0,11.7,26.9,0.4,99.2,21.2,00BG,74.44999999999999
+561,Wandsworth - Tooting,16239.0,57.3,76.0,79.7,17.907506619865803,9.0,52.7,45.4,15.2,Wandsworth,Tooting,"16239, Wandsworth",00BJGR,18.0,5.7,14.4,0.6,97.0,33.7,00BJ,77.85
+562,Wandsworth - Southfields,16256.0,70.0,78.9,89.8,18.503937007874,7.7,24.4,34.8,9.0,Wandsworth,Southfields,"16256, Wandsworth",00BJGP,14.7,2.8,10.1,0.7,72.3,17.0,00BJ,84.35
+563,Newham - Forest Gate North,16257.0,69.6,74.2,79.8,21.2708371778311,6.9,64.1,50.5,21.0,Newham,Forest Gate North,"16257, Newham",00BBGK,28.9,8.7,17.8,0.6,90.8,13.8,00BB,77.0
+564,Enfield - Haselbury,16263.0,83.4,81.0,83.4,25.4196642685851,9.3,54.3,46.0,22.1,Enfield,Haselbury,"16263, Enfield",00AKGU,19.5,11.0,27.2,0.8,72.3,27.0,00AK,82.2
+565,Wandsworth - Queenstown,16331.0,42.0,76.9,84.6,14.1877411058723,7.8,35.7,42.4,15.4,Wandsworth,Queenstown,"16331, Wandsworth",00BJGK,30.7,4.6,11.9,0.5,83.2,38.5,00BJ,80.75
+566,Barnet - Brunswick Park,16394.0,55.2,83.8,83.2,20.6233988044406,14.4,31.6,30.9,10.2,Barnet,Brunswick Park,"16394, Barnet",00ACFX,9.0,4.0,17.4,1.3,55.9,28.0,00AC,83.5
+567,Wandsworth - West Hill,16402.0,56.1,75.8,78.3,18.8452627728326,9.5,31.7,43.5,13.5,Wandsworth,West Hill,"16402, Wandsworth",00BJGT,23.6,4.7,14.3,0.8,43.9,31.9,00BJ,77.05
+568,Newham - Plaistow South,16404.0,102.3,75.4,83.4,25.1097293343087,6.6,67.3,51.7,21.9,Newham,Plaistow South,"16404, Newham",00BBGS,25.1,10.5,21.8,0.6,125.3,14.5,00BB,79.4
+569,Lewisham - Telegraph Hill,16414.0,53.8,76.4,78.8,19.5321067381504,7.0,49.4,36.9,10.9,Lewisham,Telegraph Hill,"16414, Lewisham",00AZGW,36.6,8.2,14.4,0.6,71.7,99.9,00AZ,77.6
+570,Enfield - Enfield Lock,16469.0,91.1,76.4,79.1,27.2876313073046,8.2,45.1,33.8,14.0,Enfield,Enfield Lock,"16469, Enfield",00AKGS,22.7,11.0,26.5,0.9,70.7,39.6,00AK,77.75
+571,Croydon - Norbury,16476.0,73.7,81.5,82.8,21.018451080359302,13.4,62.3,43.6,13.0,Croydon,Norbury,"16476, Croydon",00AHGS,13.8,6.6,16.2,1.0,77.4,16.1,00AH,82.15
+572,Croydon - South Norwood,16518.0,75.6,75.6,84.4,21.297977963433798,9.9,52.3,32.1,8.2,Croydon,South Norwood,"16518, Croydon",00AHGZ,20.7,9.6,15.9,0.7,100.5,17.5,00AH,80.0
+573,Greenwich - Greenwich West,16527.0,64.3,75.6,82.1,17.4320808374176,7.7,33.3,34.8,9.7,Greenwich,Greenwich West,"16527, Greenwich",00ALGY,35.7,5.4,12.8,0.6,127.7,49.0,00AL,78.85
+574,Enfield - Lower Edmonton,16531.0,111.2,75.7,79.8,27.451454842417302,9.2,58.9,46.1,19.5,Enfield,Lower Edmonton,"16531, Enfield",00AKGY,27.4,11.5,28.5,0.7,71.9,40.6,00AK,77.75
+575,Barnet - West Finchley,16533.0,64.6,79.9,81.6,17.5588217504385,12.5,39.2,44.7,19.0,Barnet,West Finchley,"16533, Barnet",00ACGR,7.2,3.3,12.2,0.9,76.1,13.4,00AC,80.75
+576,Croydon - Thornton Heath,16539.0,87.1,75.6,82.8,25.0256968377774,9.1,67.1,37.6,9.4,Croydon,Thornton Heath,"16539, Croydon",00AHHA,19.7,11.3,18.7,0.7,95.9,11.2,00AH,79.19999999999999
+577,Wandsworth - St. Mary's Park,16556.0,64.6,72.5,76.2,13.916404928726699,10.4,28.2,38.9,11.3,Wandsworth,St. Mary's Park,"16556, Wandsworth",00BJGM,21.8,4.8,11.4,0.7,89.3,26.9,00BJ,74.35
+578,Croydon - Fairfield,16569.0,74.2,79.2,80.9,17.587060172611498,11.7,48.7,42.3,13.7,Croydon,Fairfield,"16569, Croydon",00AHGM,15.5,4.2,12.3,0.6,261.1,17.5,00AH,80.05000000000001
+579,Lewisham - Evelyn,16603.0,65.5,76.7,84.0,23.200626392820602,6.0,60.9,44.8,16.0,Lewisham,Evelyn,"16603, Lewisham",00AZGK,57.3,10.2,19.1,0.4,95.7,22.6,00AZ,80.35
+580,Newham - Little Ilford,16633.0,107.8,71.2,78.9,27.782119882162,6.7,82.0,54.5,27.3,Newham,Little Ilford,"16633, Newham",00BBGP,30.1,12.0,23.2,0.6,85.2,48.6,00BB,75.05000000000001
+581,Barnet - Edgware,16728.0,76.4,80.1,83.6,23.320181731229102,13.8,39.2,37.4,12.1,Barnet,Edgware,"16728, Barnet",00ACGE,15.8,4.2,17.0,1.2,93.7,54.0,00AC,81.85
+582,Greenwich - Plumstead,16736.0,106.6,74.0,83.3,23.3568355640535,8.6,55.4,41.7,14.6,Greenwich,Plumstead,"16736, Greenwich",00ALHC,27.3,11.0,21.6,0.7,98.1,41.0,00AL,78.65
+583,Croydon - Woodside,16743.0,75.4,79.3,80.6,24.386310697007698,7.9,55.1,28.4,6.3,Croydon,Woodside,"16743, Croydon",00AHHE,19.8,8.4,17.1,0.8,78.6,33.3,00AH,79.94999999999999
+584,Redbridge - Newbury,16760.0,84.5,78.8,83.8,25.4474940334129,9.1,77.2,47.5,17.6,Redbridge,Newbury,"16760, Redbridge",00BCGP,10.0,6.5,17.4,1.1,73.4,21.4,00BC,81.3
+585,Bromley - Cray Valley West,16769.0,68.2,76.6,82.6,23.6269306458346,14.9,13.9,10.9,2.5,Bromley,Cray Valley West,"16769, Bromley",00AFGN,33.5,7.1,28.5,1.1,84.7,24.2,00AF,79.6
+586,Lambeth - Coldharbour,16784.0,63.0,73.1,80.0,21.5622020972355,6.1,62.1,43.7,13.3,Lambeth,Coldharbour,"16784, Lambeth",00AYGD,59.1,15.0,17.6,0.4,194.9,14.4,00AY,76.55
+587,Bromley - Bromley Town,16826.0,73.4,78.0,81.1,19.3510043979555,13.9,18.5,19.9,4.9,Bromley,Bromley Town,"16826, Bromley",00AFGG,10.0,3.3,13.1,1.0,155.7,18.0,00AF,79.55
+588,Croydon - Addiscombe,16883.0,64.9,76.8,81.4,18.6815139489427,9.7,43.6,34.5,10.2,Croydon,Addiscombe,"16883, Croydon",00AHGE,13.7,5.1,15.3,0.7,69.4,2.3,00AH,79.1
+589,Brent - Stonebridge,16903.0,72.6,75.1,87.9,28.190262083653803,8.7,76.5,48.8,17.2,Brent,Stonebridge,"16903, Brent",00AEHA,62.3,13.7,25.9,0.6,119.9,16.3,00AE,81.5
+590,Brent - Kilburn,16989.0,81.4,76.2,84.2,18.600270763435198,8.6,50.0,48.1,18.4,Brent,Kilburn,"16989, Brent",00AEGT,45.0,13.3,17.1,0.4,123.3,11.2,00AE,80.2
+591,Croydon - Waddon,17077.0,74.1,74.8,80.1,22.275575335246202,11.0,44.6,30.1,8.9,Croydon,Waddon,"17077, Croydon",00AHHC,25.5,6.8,19.1,0.8,93.8,32.6,00AH,77.44999999999999
+592,Barnet - Colindale,17098.0,68.6,76.4,84.6,22.2306702538309,8.4,59.9,52.7,23.2,Barnet,Colindale,"17098, Barnet",00ACGA,34.3,4.8,18.0,0.8,68.8,20.8,00AC,80.5
+593,Lewisham - Brockley,17156.0,53.0,75.0,80.1,15.248309629284199,6.5,43.1,36.8,10.5,Lewisham,Brockley,"17156, Lewisham",00AZGF,30.1,8.4,11.8,0.5,118.9,13.5,00AZ,77.55
+594,Brent - Harlesden,17162.0,106.9,71.9,80.6,25.8652837664608,8.0,67.0,52.9,23.0,Brent,Harlesden,"17162, Brent",00AEGQ,44.0,23.4,24.1,0.5,189.6,8.9,00AE,76.25
+595,Lambeth - Larkhall,17243.0,38.8,74.0,79.2,16.6560343327727,6.2,43.3,42.2,13.0,Lambeth,Larkhall,"17243, Lambeth",00AYGJ,41.4,7.3,13.9,0.4,113.7,20.0,00AY,76.6
+596,Barnet - Coppetts,17250.0,72.5,76.7,81.1,19.7101449275362,10.3,35.0,36.1,13.6,Barnet,Coppetts,"17250, Barnet",00ACGB,13.4,4.9,15.0,1.0,85.4,40.3,00AC,78.9
+597,Bromley - Penge and Cator,17326.0,70.5,75.5,80.6,20.801108161145102,9.7,34.6,25.8,6.4,Bromley,Penge and Cator,"17326, Bromley",00AFGX,29.8,7.4,17.0,0.8,97.7,25.2,00AF,78.05
+598,Newham - Forest Gate South,17362.0,61.8,74.6,77.2,19.410206197442697,6.5,68.2,54.8,25.5,Newham,Forest Gate South,"17362, Newham",00BBGL,26.4,9.8,17.6,0.6,111.2,2.2,00BB,75.9
+599,Enfield - Upper Edmonton,17374.0,88.4,75.4,76.7,25.8432139979279,9.2,58.0,48.4,22.7,Enfield,Upper Edmonton,"17374, Enfield",00AKHG,29.8,11.7,28.3,0.8,125.1,17.6,00AK,76.05000000000001
+600,Barnet - West Hendon,17402.0,85.8,78.2,84.3,19.8080680381565,11.4,50.6,53.6,24.7,Barnet,West Hendon,"17402, Barnet",00ACGS,16.8,5.0,17.8,0.9,120.5,32.0,00AC,81.25
+601,Barnet - Hale,17437.0,90.5,81.2,83.8,23.1060388828354,13.4,40.6,35.7,11.7,Barnet,Hale,"17437, Barnet",00ACGJ,13.6,4.1,17.8,1.2,57.6,48.8,00AC,82.5
+602,Lewisham - Lewisham Central,17446.0,67.4,71.4,77.6,18.3308494783905,8.4,51.6,41.2,12.4,Lewisham,Lewisham Central,"17446, Lewisham",00AZGQ,27.4,8.2,16.1,0.5,185.1,13.6,00AZ,74.5
+603,Croydon - West Thornton,17489.0,81.5,77.6,82.5,25.050031448339,9.5,76.5,46.5,15.1,Croydon,West Thornton,"17489, Croydon",00AHHD,15.7,7.9,17.9,0.8,112.2,17.7,00AH,80.05
+604,Greenwich - Woolwich Common,17499.0,100.5,73.9,85.4,26.9101091490942,5.9,57.6,41.8,13.6,Greenwich,Woolwich Common,"17499, Greenwich",00ALHF,50.0,13.4,21.8,0.6,105.3,39.4,00AL,79.65
+605,Barnet - Woodhouse,17575.0,57.8,78.6,81.1,18.7482219061166,13.6,37.6,41.0,16.2,Barnet,Woodhouse,"17575, Barnet",00ACGT,11.5,4.5,15.7,1.0,92.8,19.3,00AC,79.85
+606,Ealing - Greenford Broadway,17625.0,93.5,77.4,81.2,23.4439716312057,11.0,57.3,48.6,22.2,Ealing,Greenford Broadway,"17625, Ealing",00AJGK,23.4,7.6,21.9,0.9,113.5,26.2,00AJ,79.30000000000001
+607,Newham - Stratford and New Town,17768.0,49.1,78.5,79.7,15.4547501125619,5.6,59.2,54.9,23.5,Newham,Stratford and New Town,"17768, Newham",00BBGU,31.8,7.0,13.9,0.4,185.7,11.2,00BB,79.1
+608,Enfield - Edmonton Green,17949.0,124.1,74.8,79.6,27.973703270377197,8.4,60.6,46.8,21.4,Enfield,Edmonton Green,"17949, Enfield",00AKGQ,43.1,19.6,30.5,0.6,147.7,33.2,00AK,77.19999999999999
+609,Croydon - Selhurst,18087.0,77.3,73.9,78.9,24.5535467462819,8.7,65.6,40.1,11.5,Croydon,Selhurst,"18087, Croydon",00AHGW,27.1,9.9,18.9,0.6,140.2,18.3,00AH,76.4
+610,Greenwich - Glyndon,18171.0,91.0,73.2,77.4,22.8606020582246,7.1,55.0,42.2,13.8,Greenwich,Glyndon,"18171, Greenwich",00ALGX,41.4,10.5,21.4,0.6,65.6,32.6,00AL,75.30000000000001
+611,Barnet - Burnt Oak,18217.0,94.3,74.7,82.1,24.5814349234232,9.3,53.5,47.1,19.3,Barnet,Burnt Oak,"18217, Barnet",00ACFY,35.5,6.9,23.6,0.8,67.8,20.2,00AC,78.4
+612,Barnet - Mill Hill,18451.0,63.8,80.7,86.6,22.8171914801366,13.1,36.1,34.4,10.2,Barnet,Mill Hill,"18451, Barnet",00ACGM,12.8,3.8,14.0,1.3,82.4,59.0,00AC,83.65
+613,Barnet - Hendon,18472.0,88.4,80.1,85.3,20.0844521437852,11.9,36.3,48.2,20.3,Barnet,Hendon,"18472, Barnet",00ACGK,12.1,4.7,13.5,1.0,81.9,16.4,00AC,82.69999999999999
+614,Croydon - Broad Green,18652.0,83.8,75.3,83.8,25.7613124597898,7.1,68.6,46.2,16.9,Croydon,Broad Green,"18652, Croydon",00AHGH,27.5,8.3,20.2,0.7,219.7,4.5,00AH,79.55
+615,Ealing - East Acton,18706.0,62.3,80.1,85.6,19.250507858441104,8.2,50.1,54.4,22.4,Ealing,East Acton,"18706, Ealing",00AJGH,22.1,7.8,15.0,0.7,144.3,19.6,00AJ,82.85
+616,Barnet - Golders Green,18818.0,98.7,78.3,84.2,27.186736103730503,12.0,34.2,45.8,17.5,Barnet,Golders Green,"18818, Barnet",00ACGH,13.3,4.5,16.4,1.0,83.3,14.6,00AC,81.25
+617,Greenwich - Woolwich Riverside,19120.0,84.4,73.8,80.2,23.6297071129707,6.2,49.0,39.4,13.3,Greenwich,Woolwich Riverside,"19120, Greenwich",00ALHG,50.0,10.4,19.9,0.5,137.4,34.9,00AL,77.0
+618,Tower Hamlets - Blackwall and Cubitt Town,19461.0,75.1,77.4,83.4,17.804840450131,4.7,50.4,48.6,21.9,Tower Hamlets,Blackwall and Cubitt Town,"19461, Tower Hamlets",00BGFY,28.6,6.7,14.6,0.5,90.0,42.2,00BG,80.4
+619,Greenwich - Thamesmead Moorings,19730.0,122.5,74.3,77.5,28.6467308667005,4.7,57.6,41.8,12.1,Greenwich,Thamesmead Moorings,"19730, Greenwich",00ALHE,38.0,9.3,18.7,0.7,94.5,55.5,00AL,75.9
+620,Barnet - Childs Hill,20049.0,69.0,77.4,82.0,19.173026086089102,12.4,38.9,51.2,23.0,Barnet,Childs Hill,"20049, Barnet",00ACFZ,12.5,6.2,13.7,0.8,107.1,15.1,00AC,79.7
+621,Tower Hamlets - Millwall,23084.0,58.1,83.6,95.0,15.5605614278288,3.5,47.6,52.1,23.4,Tower Hamlets,Millwall,"23084, Tower Hamlets",00BGGG,20.6,5.1,11.4,0.5,86.5,35.0,00BG,89.3
+622,Redbridge - Loxford,12967.0,,,,29.0256286266925,7.5,83.5,53.2,23.7,Redbridge,Loxford,"12967, Redbridge",,,,,,,,,
+623,Lambeth - Stockwell,12967.0,,,,18.3799147323543,6.9,44.3,44.9,17.8,Lambeth,Stockwell,"12967, Lambeth",,,,,,,,,
+624,,,,,,,,,,,,,"14777, Lambeth",00AYGN,45.0,9.2,16.2,0.4,94.4,13.2,00AY,
+625,,,,,,,,,,,,,"16544, Redbridge",00BCGL,22.8,10.7,20.1,0.7,108.0,18.3,00BC,
